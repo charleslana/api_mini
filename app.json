@@ -111,11 +111,11 @@
         "ko": false,
         "name": {
           "enUs": "Rage",
-          "ptBr": "Rage"
+          "ptBr": "Fúria"
         },
         "description": {
           "enUs": "Each attack increases speed, can stack 10 times",
-          "ptBr": "Each attack increases speed, can stack 10 times"
+          "ptBr": "Cada ataque aumenta a velocidade, pode acumular até 10 vezes"
         }
       },
       "abilities": [
