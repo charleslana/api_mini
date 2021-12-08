@@ -1,0 +1,2548 @@
+{
+  "version": "1.0.0",
+  "versionApp": "1.0.0",
+  "author": "Charles Lana",
+  "minis": [
+    {
+      "id": 1,
+      "name": {
+        "enUs": "Knight",
+        "ptBr": "Cavaleiro"
+      },
+      "image": "001_knight",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Chivalry",
+          "ptBr": "Chivalry"
+        },
+        "description": {
+          "enUs": "Gain Block for a short time",
+          "ptBr": "Gain Block for a short time"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Plate Armor",
+            "ptBr": "Armadura de Placa"
+          },
+          "description": {
+            "enUs": "Chivalry +3s Block Duration",
+            "ptBr": "Cavalheirismo, Duração do Bloqueio de +3s"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Mocking",
+            "ptBr": "Zombando"
+          },
+          "description": {
+            "enUs": "Chivalry forces nearby enemies to attack Knight",
+            "ptBr": "O Cavalheirismo força os inimigos próximos a atacar o Cavaleiro"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Light Armor",
+            "ptBr": "Armadura Leve"
+          },
+          "description": {
+            "enUs": "Energy needed for Chivalry -1",
+            "ptBr": "Energia necessária para Cavalheirismo -1"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 8,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 9,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 1,
+          "hp": 12,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 15,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 3,
+          "hp": 18,
+          "hitPerSecond": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "enUs": "Barbarian",
+        "ptBr": "Bárbaro"
+      },
+      "image": "002_barbarian",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Rage",
+          "ptBr": "Rage"
+        },
+        "description": {
+          "enUs": "Each attack increases speed, can stack 10 times",
+          "ptBr": "Each attack increases speed, can stack 10 times"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Endless Rage",
+            "ptBr": "Fúria sem Fim"
+          },
+          "description": {
+            "enUs": "Rage can stack infinitely",
+            "ptBr": "A Raiva pode acumular infinitamente"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Critical Strike",
+            "ptBr": "Ataque Crítico"
+          },
+          "description": {
+            "enUs": "Attacks have a small chance to deal +1 damage",
+            "ptBr": "Ataques têm uma pequena chance de causar +1 de dano"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Pride",
+            "ptBr": "Orgulho"
+          },
+          "description": {
+            "enUs": "+1 ATK for a short time",
+            "ptBr": "+1 ATK por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 6,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 8,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 10,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 12,
+          "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "enUs": "Miner",
+        "ptBr": "Mineiro"
+      },
+      "image": "003_miner",
+      "skill": {
+        "clash": true,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Burrow",
+          "ptBr": "Toca"
+        },
+        "description": {
+          "enUs": "Tunnel to the back of your opponent's board",
+          "ptBr": "Mergulhe para a parte de trás do tabuleiro do seu oponente"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Surprise!",
+            "ptBr": "Surpresa!"
+          },
+          "description": {
+            "enUs": "Attacks gain Backstab",
+            "ptBr": "Ataques ganham Punhalada nas costas"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Excitement",
+            "ptBr": "Excitação"
+          },
+          "description": {
+            "enUs": "HUGE speed bonus for a short time",
+            "ptBr": "ENORME bônus de Velocidade por um curto período de tempo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Big Shovel",
+            "ptBr": "Pá Grande"
+          },
+          "description": {
+            "enUs": "Attacks gain Cleave",
+            "ptBr": "Ataques ganham Rachar"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 4,
+          "hitPerSecond": 0.8
+        },
+        {
+          "star": 1,
+          "hp": 6,
+          "hitPerSecond": 0.95
+        },
+        {
+          "star": 2,
+          "hp": 8,
+          "hitPerSecond": 1.1
+        },
+        {
+          "star": 3,
+          "hp": 10,
+          "hitPerSecond": 1.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "enUs": "Archer",
+        "ptBr": "Arqueira"
+      },
+      "image": "004_archer",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Long Bow",
+          "ptBr": "Arco Longo"
+        },
+        "description": {
+          "enUs": "Attacks target the furthest enemy",
+          "ptBr": "Os ataques têm como alvo o inimigo mais distante"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Archery",
+            "ptBr": "Tiro com arco"
+          },
+          "description": {
+            "enUs": "Attacks hit one additional target",
+            "ptBr": "Os ataques atingem um alvo adicional"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Pride",
+            "ptBr": "Orgulho"
+          },
+          "description": {
+            "enUs": "+1 ATK for a short time",
+            "ptBr": "+1 ATK por um curto período de tempo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Rush",
+            "ptBr": "Pressa"
+          },
+          "description": {
+            "enUs": "HUGE Speed increase for a short time",
+            "ptBr": "ENORME aumento de Velocidade por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 4,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 5,
+          "hitPerSecond": 0.45
+        },
+        {
+          "star": 2,
+          "hp": 6,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 3,
+          "hp": 7,
+          "hitPerSecond": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "enUs": "Spear Goblin",
+        "ptBr": "Goblin Lanceiro"
+      },
+      "image": "005_spear_goblin",
+      "skill": {
+        "clash": true,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Spear Toss",
+          "ptBr": "Spear Toss"
+        },
+        "description": {
+          "enUs": "Throw a HUGE spear forward, dealing damage on hit",
+          "ptBr": "Throw a HUGE spear forward, dealing damage on hit"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Strong Arm",
+            "ptBr": "Braço Forte"
+          },
+          "description": {
+            "enUs": "Spear Toss gains +3 Damage",
+            "ptBr": "Arremesso de lança ganha +3 de Dano"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Pride",
+            "ptBr": "Orgulho"
+          },
+          "description": {
+            "enUs": "+1 ATK for a short time",
+            "ptBr": "+1 ATK por um curto período de tempo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Stun Shot",
+            "ptBr": "Tiro Atordoante"
+          },
+          "description": {
+            "enUs": "Spear Toss stuns the affected enemy for 3s",
+            "ptBr": "Arremesso de lança atordoa o inimigo afetado por 3s"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 4,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 1,
+          "hp": 5,
+          "hitPerSecond": 0.65
+        },
+        {
+          "star": 2,
+          "hp": 6,
+          "hitPerSecond": 0.8
+        },
+        {
+          "star": 3,
+          "hp": 7,
+          "hitPerSecond": 0.95
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": {
+        "enUs": "Wizard",
+        "ptBr": "Mago"
+      },
+      "image": "006_wizard",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Fireball",
+          "ptBr": "Bola de fogo"
+        },
+        "description": {
+          "enUs": "Throw a fireball that damages enemies in an area",
+          "ptBr": "Jogue uma bola de fogo que causa dano aos inimigos em uma área"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Expand",
+            "ptBr": "Expandir"
+          },
+          "description": {
+            "enUs": "Fireball impacts a larger area",
+            "ptBr": "A Bola de fogo impacta uma área maior"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Ignite",
+            "ptBr": "Acender"
+          },
+          "description": {
+            "enUs": "Fireball deals 2 bonus damage over 4s",
+            "ptBr": "Bola de fogo causa 2 bônus de dano ao longo de 4s"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Spicy",
+            "ptBr": "Apimentado"
+          },
+          "description": {
+            "enUs": "Fireball prevents enemy healing for a short time",
+            "ptBr": "A Bola de fogo impede a cura do inimigo por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 4,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 5,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 6,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 7,
+          "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": {
+        "enUs": "Ice Wizard",
+        "ptBr": "Mago de Gelo"
+      },
+      "image": "007_ice_wizard",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Frost Bolt",
+          "ptBr": "Parafuso de Gelo"
+        },
+        "description": {
+          "enUs": "Enemies hit become Slow",
+          "ptBr": "Inimigos atingidos tornam-se Lentos"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Chill",
+            "ptBr": "Frio"
+          },
+          "description": {
+            "enUs": "Frost Bolt will greatly Slow enemies",
+            "ptBr": "Parafuso de Gelo irá retardar enormemente os inimigos"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Blizzard",
+            "ptBr": "Nevasca"
+          },
+          "description": {
+            "enUs": "Frost Bolt hits all nearby enemies",
+            "ptBr": "Parafuso de Gelo atinge todos os inimigos próximos"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": true,
+          "name": {
+            "enUs": "Ice Bomb",
+            "ptBr": "Bomba de Gelo"
+          },
+          "description": {
+            "enUs": "Freeze nearby enemies for a short time",
+            "ptBr": "Congele os inimigos próximos por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 4,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 5,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 6,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 7,
+          "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": {
+        "enUs": "Giant Skeleton",
+        "ptBr": "Esqueleto Gigante"
+      },
+      "image": "008_giant_skeleton",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": true,
+        "name": {
+          "enUs": "Boooom!!!",
+          "ptBr": "Boooom!!!"
+        },
+        "description": {
+          "enUs": "Drop a bomb that deals 3 damage in an area",
+          "ptBr": "Jogue uma bomba que causa 3 de dano em uma área"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Bigger Booom",
+            "ptBr": "Grande Booom"
+          },
+          "description": {
+            "enUs": "Boooom!!! +2 Damage",
+            "ptBr": "Boooom!!! +2 de Dano"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Blast Radius",
+            "ptBr": "Raio de Explosão"
+          },
+          "description": {
+            "enUs": "Boooom!!! affects a larger area",
+            "ptBr": "Boooom!!! afeta uma área maior"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": true,
+          "name": {
+            "enUs": "Flashbang",
+            "ptBr": "Granada de luz"
+          },
+          "description": {
+            "enUs": "Boooom!!! stuns enemies for 2s",
+            "ptBr": "Boooom!!! atordoa os inimigos por 2s"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 10,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 1,
+          "hp": 13,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 2,
+          "hp": 16,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 3,
+          "hp": 19,
+          "hitPerSecond": 0.35
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": {
+        "enUs": "Lumberjack",
+        "ptBr": "Lenhador"
+      },
+      "image": "009_lumberjack",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Rage Potion",
+          "ptBr": "Poção de Raiva"
+        },
+        "description": {
+          "enUs": "Toss a potion to the closest ally that increases their speed",
+          "ptBr": "Jogue uma poção para o aliado mais próximo para aumentar sua velocidade"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Splash",
+            "ptBr": "Respingo"
+          },
+          "description": {
+            "enUs": "Rage Potion affects larger area",
+            "ptBr": "Poção de Raiva afeta uma área maior"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Potent",
+            "ptBr": "Potente"
+          },
+          "description": {
+            "enUs": "Rage Potion lasts much longer",
+            "ptBr": "Poção de Raiva dura muito mais tempo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Quick Sip",
+            "ptBr": "Gole Rápido"
+          },
+          "description": {
+            "enUs": "Cast Rage Potion",
+            "ptBr": "Poção de Raiva Lançada"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 1,
+      "energyCost": 5,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 9,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 1,
+          "hp": 11,
+          "hitPerSecond": 0.7
+        },
+        {
+          "star": 2,
+          "hp": 13,
+          "hitPerSecond": 0.8
+        },
+        {
+          "star": 3,
+          "hp": 15,
+          "hitPerSecond": 0.9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": {
+        "enUs": "Mini P.E.K.K.A",
+        "ptBr": "Mini P.E.K.K.A"
+      },
+      "image": "010_mini_p_e_k_k_a",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Shining Blade",
+          "ptBr": "Lâmina Brilhante"
+        },
+        "description": {
+          "enUs": "Attacks have a small chance to deal 2x damage",
+          "ptBr": "Ataques têm uma pequena chance de causar 2x o dano"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Hack Hack",
+            "ptBr": "Retalhar"
+          },
+          "description": {
+            "enUs": "Shining Blade chance to trigger is doubled",
+            "ptBr": "A chance de acionar a Lâmina Brilhante é dobrada"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Drain",
+            "ptBr": "Drenar"
+          },
+          "description": {
+            "enUs": "Attacks gain 2 Dissipate",
+            "ptBr": "Ataques ganham 2 de Dissipar"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Pride",
+            "ptBr": "Orgulho"
+          },
+          "description": {
+            "enUs": "+1 ATK for a short time",
+            "ptBr": "+1 ATK por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 2,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 8,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 11,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 14,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 17,
+          "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": {
+        "enUs": "Dart Goblin",
+        "ptBr": "Goblin de Dardo"
+      },
+      "image": "011_dart_goblin",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Dart Master",
+          "ptBr": "Mestre de Dardo"
+        },
+        "description": {
+          "enUs": "Each attack increases attack speed, stacking up to 10 times",
+          "ptBr": "Cada ataque aumenta a velocidade de ataque, acumulando até 10 vezes"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Rhythm",
+            "ptBr": "Ritmo"
+          },
+          "description": {
+            "enUs": "Dart Master bonus can stack infinitely",
+            "ptBr": "O bônus do Mestre de Dardo pode acumular infinitamente"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Stun Shot",
+            "ptBr": "Tiro Atordoante"
+          },
+          "description": {
+            "enUs": "Attack has a small chance to stun",
+            "ptBr": "O Ataque tem uma pequena chance de atordoar"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Pride",
+            "ptBr": "Orgulho"
+          },
+          "description": {
+            "enUs": "+1 ATK for a short time",
+            "ptBr": "+1 ATK por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 1,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 5,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 1,
+          "hp": 6,
+          "hitPerSecond": 0.7
+        },
+        {
+          "star": 2,
+          "hp": 7,
+          "hitPerSecond": 0.8
+        },
+        {
+          "star": 3,
+          "hp": 8,
+          "hitPerSecond": 0.9
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": {
+        "enUs": "Bowler",
+        "ptBr": "Lançador"
+      },
+      "image": "012_bowler",
+      "skill": {
+        "clash": true,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Strrrike!!!",
+          "ptBr": "Strrrike!!!"
+        },
+        "description": {
+          "enUs": "Roll a giant rock straight ahead, damaging, stunning and knocking back any enemies hit",
+          "ptBr": "Role uma pedra gigante para frente, causando dano, atordoamento e repelindo todos os inimigos atingidos"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "On a Roll",
+            "ptBr": "Rolando"
+          },
+          "description": {
+            "enUs": "Strrrike!!! becomes a Super ability also",
+            "ptBr": "Strrrike!!! torna-se uma super habilidade também"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Crushing",
+            "ptBr": "Esmagamento"
+          },
+          "description": {
+            "enUs": "Strrrike!!! +3s stun duration",
+            "ptBr": "Strrrike!!! +3s duração de atordoamento"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Damage Amplify",
+            "ptBr": "Amplificar de Dano"
+          },
+          "description": {
+            "enUs": "Strrrike!!! +2 Damage",
+            "ptBr": "Strrrike!!! +2 de Dano"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 2,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 7,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 1,
+          "hp": 9,
+          "hitPerSecond": 0.45
+        },
+        {
+          "star": 2,
+          "hp": 11,
+          "hitPerSecond": 0.55
+        },
+        {
+          "star": 3,
+          "hp": 13,
+          "hitPerSecond": 0.65
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": {
+        "enUs": "Healing Ranger",
+        "ptBr": "Curandeira"
+      },
+      "image": "013_healing_ranger",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Healing Spear",
+          "ptBr": "Lança de Cura"
+        },
+        "description": {
+          "enUs": "Throw a magic spear that heals allies in its path for 4 HP",
+          "ptBr": "Jogue uma lança mágica que cura aliados em seu caminho por 4 HP"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Strong Dose",
+            "ptBr": "Dose Forte"
+          },
+          "description": {
+            "enUs": "Healing Spear +2 heal amount",
+            "ptBr": "Lança de Cura aumentada em +2 de cura"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Extra Dose",
+            "ptBr": "Dose Extra"
+          },
+          "description": {
+            "enUs": "Healing Spear affects a wider area",
+            "ptBr": "Lança de Cura afeta uma área mais ampla"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Inspire",
+            "ptBr": "Inspirar"
+          },
+          "description": {
+            "enUs": "Healing Spear increases allies' speed for a short time",
+            "ptBr": "Lança de Cura aumenta a velocidade dos aliados por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 1,
+      "energyCost": 5,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 6,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 1,
+          "hp": 8,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 2,
+          "hp": 10,
+          "hitPerSecond": 0.7
+        },
+        {
+          "star": 3,
+          "hp": 12,
+          "hitPerSecond": 0.8
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": {
+        "enUs": "P.E.K.K.A",
+        "ptBr": "P.E.K.K.A"
+      },
+      "image": "014_p_e_k_k_a",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Heavy Blade",
+          "ptBr": "Lâmina Pesada"
+        },
+        "description": {
+          "enUs": "Attacks have a small chance to deal 2x damage",
+          "ptBr": "Ataques têm uma pequena chance de causar 2x de dano"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Humble",
+            "ptBr": "Humilde"
+          },
+          "description": {
+            "enUs": "Heavy Blade bonus damage increased to 3x",
+            "ptBr": "Lâmina Pesada bônus de dano aumentado para 3x"
+          }
+        },
+        {
+          "star": 2,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Armor",
+            "ptBr": "Armadura"
+          },
+          "description": {
+            "enUs": "Gain Block for a short time",
+            "ptBr": "Ganho de Bloqueio por um curto período de tempo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Breaker",
+            "ptBr": "Disjuntor"
+          },
+          "description": {
+            "enUs": "Heal 6HP over 3s",
+            "ptBr": "Cure 6HP ao longo de 3s"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 3,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 13,
+          "hitPerSecond": 0.3
+        },
+        {
+          "star": 1,
+          "hp": 17,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 2,
+          "hp": 21,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 3,
+          "hp": 25,
+          "hitPerSecond": 0.45
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": {
+        "enUs": "Valkyrie",
+        "ptBr": "Valquíria"
+      },
+      "image": "015_valkyrie",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Axestorm",
+          "ptBr": "Tempestade de Machado"
+        },
+        "description": {
+          "enUs": "Spinning attack that damages surrounding enemies",
+          "ptBr": "Ataque giratório que danifica os inimigos ao redor"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Frenzy",
+            "ptBr": "Frenesi"
+          },
+          "description": {
+            "enUs": "Hitting enemies increases speed. Can stack 10 times",
+            "ptBr": "Atingir os inimigos aumenta a velocidade. Pode empilhar até 10 vezes"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Humble",
+            "ptBr": "Humilde"
+          },
+          "description": {
+            "enUs": "Heal 6HP over 3s",
+            "ptBr": "Cure 6HP ao longo de 3s"
+          }
+        },
+        {
+          "star": 3,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Rush",
+            "ptBr": "Pressa"
+          },
+          "description": {
+            "enUs": "HUGE Speed increase for a short time",
+            "ptBr": "ENORME aumento de Velocidade por um curto período de tempo"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 2,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 8,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 1,
+          "hp": 10,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 2,
+          "hp": 12,
+          "hitPerSecond": 0.45
+        },
+        {
+          "star": 3,
+          "hp": 14,
+          "hitPerSecond": 0.5
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": {
+        "enUs": "Magic Archer",
+        "ptBr": "Arqueiro Mágico"
+      },
+      "image": "016_magic_archer",
+      "skill": {
+        "clash": false,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Magic Arrow",
+          "ptBr": "Flecha Mágica"
+        },
+        "description": {
+          "enUs": "Attacks have Pierce",
+          "ptBr": "Ataques Perfuraram"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Steel Tips",
+            "ptBr": "Pontas de Aço"
+          },
+          "description": {
+            "enUs": "Magic Arrow +1 Damage",
+            "ptBr": "Flecha Mágica +1 de Dano"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Drain",
+            "ptBr": "Drenar"
+          },
+          "description": {
+            "enUs": "Magic Arrow gains 2 Dissipate",
+            "ptBr": "Flecha Mágica ganha 2 de Dissipar"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Quebrar",
+            "ptBr": "Shatter"
+          },
+          "description": {
+            "enUs": "Magic Arrow gains Breaker",
+            "ptBr": "Flecha Mágica ganha Disjuntor"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 2,
+      "energyCost": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 6,
+          "hitPerSecond": 0.35
+        },
+        {
+          "star": 1,
+          "hp": 7,
+          "hitPerSecond": 0.45
+        },
+        {
+          "star": 2,
+          "hp": 8,
+          "hitPerSecond": 0.55
+        },
+        {
+          "star": 3,
+          "hp": 9,
+          "hitPerSecond": 0.65
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": {
+        "enUs": "Battle Healer",
+        "ptBr": "Curandeira de Batalha"
+      },
+      "image": "017_battle_healer",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "First Aid",
+          "ptBr": "Primeiros Socorros"
+        },
+        "description": {
+          "enUs": "Heal nearby allies for 6 HP",
+          "ptBr": "Cure aliados próximos por 6 HP"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Triage",
+            "ptBr": "Triagem"
+          },
+          "description": {
+            "enUs": "First Aid +4 Heal amount",
+            "ptBr": "Primeiros Socorros aumentada em +4 de cura"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Aura",
+            "ptBr": "Aura"
+          },
+          "description": {
+            "enUs": "First Aid affects larger area",
+            "ptBr": "Primeiros Socorros afetam uma área maior"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Cheer",
+            "ptBr": "Alegrar"
+          },
+          "description": {
+            "enUs": "Allies receiving First Aid gain 1 Energy",
+            "ptBr": "Aliados que recebem Primeiros Socorros ganham 1 de Energia"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 1,
+      "energyCost": 8,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 10,
+          "hitPerSecond": 0.45
+        },
+        {
+          "star": 1,
+          "hp": 12,
+          "hitPerSecond": 0.55
+        },
+        {
+          "star": 2,
+          "hp": 14,
+          "hitPerSecond": 0.65
+        },
+        {
+          "star": 3,
+          "hp": 16,
+          "hitPerSecond": 0.75
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": {
+        "enUs": "Mega Knight",
+        "ptBr": "Mega Cavaleiro"
+      },
+      "image": "018_mega_knight",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Skyfall",
+          "ptBr": "Queda do céu"
+        },
+        "description": {
+          "enUs": "Stomp the ground to damage and stun nearby enemies",
+          "ptBr": "Pise no chão para causar dano e atordoar os inimigos próximos"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "SLAM",
+            "ptBr": "Batida"
+          },
+          "description": {
+            "enUs": "Skyfall +2s Stun Duration",
+            "ptBr": "Queda do céu + 2s de duração do atordoamento"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Earthquake",
+            "ptBr": "Terremoto"
+          },
+          "description": {
+            "enUs": "Skyfall affects a larger area",
+            "ptBr": "Queda do céu afeta uma área maior"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Shockwave",
+            "ptBr": "Onda de choque"
+          },
+          "description": {
+            "enUs": "Attacks push back enemies",
+            "ptBr": "Ataques empurram os inimigos para trás"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 1,
+      "energyCost": 8,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 15,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 21,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 27,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 33,
+          "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "enUs": "Electro Wizard",
+        "ptBr": "Mago Elétrico"
+      },
+      "image": "019_electro_wizard",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Zzzap",
+          "ptBr": "Zzzap"
+        },
+        "description": {
+          "enUs": "Damage and stun 2 enemies",
+          "ptBr": "Danificar e atordoar 2 inimigos"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Fork",
+            "ptBr": "Garfo"
+          },
+          "description": {
+            "enUs": "Zzzap strikes up to 4 enemies",
+            "ptBr": "Zzzap atinge até 4 inimigos"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Drain",
+            "ptBr": "Drenar"
+          },
+          "description": {
+            "enUs": "Zzzap gains 4 Dissipate",
+            "ptBr": "Zzzap ganha 4 de Dissipar"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Electrocute",
+            "ptBr": "Eletrocutar"
+          },
+          "description": {
+            "enUs": "Zzzap +2s Stun Duration",
+            "ptBr": "Zzzap +2s de duração do atordoamento"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 1,
+      "energyCost": 4,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 7,
+          "hitPerSecond": 0.65
+        },
+        {
+          "star": 1,
+          "hp": 10,
+          "hitPerSecond": 0.75
+        },
+        {
+          "star": 2,
+          "hp": 13,
+          "hitPerSecond": 0.85
+        },
+        {
+          "star": 3,
+          "hp": 16,
+          "hitPerSecond": 0.95
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": {
+        "enUs": "Skeleton Guard",
+        "ptBr": "Guarda Esqueleto"
+      },
+      "image": "020_skeleton_guard",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Shield-up!",
+          "ptBr": "Escudo!"
+        },
+        "description": {
+          "enUs": "Gain 6 Shield for a short time",
+          "ptBr": "Ganhe 6 Escudos por um curto período de tempo"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Iron Shield",
+            "ptBr": "Escudo de Ferro"
+          },
+          "description": {
+            "enUs": "Shield-up! +6 Shield amount",
+            "ptBr": "Escudo! aumentada em +6 de escudo"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Growth",
+            "ptBr": "Crescimento"
+          },
+          "description": {
+            "enUs": "HUGE speed increase while Shield-up! is active",
+            "ptBr": "ENORME aumento de velocidade enquanto Escudo está ativo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Quick Action",
+            "ptBr": "Ação Rápida"
+          },
+          "description": {
+            "enUs": "Cast Shield-up!",
+            "ptBr": "Escudo! Lançado"
+          }
+        }
+      ],
+      "elixirCost": 2,
+      "damagePerHit": 1,
+      "energyCost": 6,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 8,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 10,
+          "hitPerSecond": 0.5
+        },
+        {
+          "star": 2,
+          "hp": 12,
+          "hitPerSecond": 0.6
+        },
+        {
+          "star": 3,
+          "hp": 14,
+          "hitPerSecond": 0.7
+        }
+      ]
+    }
+  ],
+  "heroes": [
+    {
+      "id": 1,
+      "name": {
+        "enUs": "Barbarian King",
+        "ptBr": "Rei Bárbaro"
+      },
+      "image": "001_barbarian_king",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Iron Fist",
+            "ptBr": "Punho de Ferro"
+          },
+          "description": {
+            "enUs": "Increase the damage of nearby allies for a short time",
+            "ptBr": "Aumenta o dano de aliados próximos por um curto período de tempo"
+          }
+        },
+        {
+          "level": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Born Leader",
+            "ptBr": "Líder Nascido"
+          },
+          "description": {
+            "enUs": "Iron Fist bonus applies to all allies",
+            "ptBr": "O bônus do Punho de Ferro se aplica a todos os aliados"
+          }
+        },
+        {
+          "level": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Stamina",
+            "ptBr": "Energia"
+          },
+          "description": {
+            "enUs": "Iron Fist duration is doubled",
+            "ptBr": "A duração do Punho de Ferro é duplicada"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 12,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 2,
+          "hp": 14,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 3,
+          "hp": 16,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 4,
+          "hp": 16,
+          "hitPerSecond": 0.9,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 5,
+          "hp": 16,
+          "hitPerSecond": 0.9,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 6,
+          "hp": 19,
+          "hitPerSecond": 0.9,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 7,
+          "hp": 19,
+          "hitPerSecond": 1.05,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 8,
+          "hp": 23,
+          "hitPerSecond": 1.05,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 9,
+          "hp": 23,
+          "hitPerSecond": 1.25,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 10,
+          "hp": 23,
+          "hitPerSecond": 1.25,
+          "damagePerHit": 1,
+          "energyCost": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "enUs": "Monk",
+        "ptBr": "Monge"
+      },
+      "image": "002_monk",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Peace Maker",
+            "ptBr": "Pacificador"
+          },
+          "description": {
+            "enUs": "Monk's next attack is a palm strike that deals 8 damage",
+            "ptBr": "O próximo ataque do Monge é um golpe com a palma da mão que causa 8 de dano"
+          }
+        },
+        {
+          "level": 2,
+          "clash": true,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Mystic Palm",
+            "ptBr": "Palma Mística"
+          },
+          "description": {
+            "enUs": "Increases speed until game end",
+            "ptBr": "Aumenta a velocidade até o final do jogo"
+          }
+        },
+        {
+          "level": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Final Peace",
+            "ptBr": "Paz Final"
+          },
+          "description": {
+            "enUs": "Peace Maker deals +7 damage",
+            "ptBr": "Pacificador causa +7 de dano"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 12,
+          "hitPerSecond": 0.6,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 2,
+          "hp": 14,
+          "hitPerSecond": 0.6,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 3,
+          "hp": 14,
+          "hitPerSecond": 0.7,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 4,
+          "hp": 14,
+          "hitPerSecond": 0.7,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 5,
+          "hp": 14,
+          "hitPerSecond": 0.7,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 6,
+          "hp": 17,
+          "hitPerSecond": 0.7,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 7,
+          "hp": 17,
+          "hitPerSecond": 0.85,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 8,
+          "hp": 21,
+          "hitPerSecond": 0.85,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 9,
+          "hp": 21,
+          "hitPerSecond": 0.85,
+          "damagePerHit": 1,
+          "energyCost": 8
+        },
+        {
+          "level": 10,
+          "hp": 21,
+          "hitPerSecond": 0.85,
+          "damagePerHit": 1,
+          "energyCost": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "enUs": "Shield Maiden",
+        "ptBr": "Dama do Escudo"
+      },
+      "image": "003_shield_maiden",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Magic Shield",
+            "ptBr": "Escudo Mágico"
+          },
+          "description": {
+            "enUs": "Gain Block and reflect some damage back to attackers for a short time",
+            "ptBr": "Ganhe Bloqueio e reflita algum dano de volta para os atacantes por um curto período de tempo"
+          }
+        },
+        {
+          "level": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Magnetic Shield",
+            "ptBr": "Escudo Magnético"
+          },
+          "description": {
+            "enUs": "Magic Shield forces all enemies to attack Shield Maiden for a short time",
+            "ptBr": "Escudo Mágico força todos os inimigos a atacar a Dama do Escudo por um curto período de tempo"
+          }
+        },
+        {
+          "level": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "name": {
+            "enUs": "Will Power",
+            "ptBr": "Força de Vontade"
+          },
+          "description": {
+            "enUs": "+1 Energy",
+            "ptBr": "+1 de Energia"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 16,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 2,
+          "hp": 18,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 3,
+          "hp": 20,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 10
+        },
+        {
+          "level": 4,
+          "hp": 20,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 5,
+          "hp": 20,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 6,
+          "hp": 23,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 9
+        },
+        {
+          "level": 7,
+          "hp": 23,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 8
+        },
+        {
+          "level": 8,
+          "hp": 27,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 8
+        },
+        {
+          "level": 9,
+          "hp": 31,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 8
+        },
+        {
+          "level": 10,
+          "hp": 31,
+          "hitPerSecond": 0.4,
+          "damagePerHit": 1,
+          "energyCost": 8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "enUs": "Archer Queen",
+        "ptBr": "Rainha Arqueira"
+      },
+      "image": "004_archer_queen",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Crossbow",
+            "ptBr": "Besta"
+          },
+          "description": {
+            "enUs": "HUGE speed increase, and attacks hit 3 enemies for a short time",
+            "ptBr": "ENORME aumento de velocidade, e os ataques atingem 3 inimigos por um curto período de tempo"
+          }
+        },
+        {
+          "level": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Inspire",
+            "ptBr": "Inspirar"
+          },
+          "description": {
+            "enUs": "Crossbow increases speed of nearby allies for a short time",
+            "ptBr": "Besta aumenta a velocidade de aliados próximos por um curto período de tempo"
+          }
+        },
+        {
+          "level": 3,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "name": {
+            "enUs": "Queen's Rage",
+            "ptBr": "Raiva da Rainha"
+          },
+          "description": {
+            "enUs": "+1 damage for a short time",
+            "ptBr": "+1 dano por um curto período de tempo"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 6,
+          "hitPerSecond": 1.0,
+          "damagePerHit": 1,
+          "energyCost": 7
+        },
+        {
+          "level": 2,
+          "hp": 6,
+          "hitPerSecond": 1.1,
+          "damagePerHit": 1,
+          "energyCost": 7
+        },
+        {
+          "level": 3,
+          "hp": 7,
+          "hitPerSecond": 1.1,
+          "damagePerHit": 1,
+          "energyCost": 7
+        },
+        {
+          "level": 4,
+          "hp": 7,
+          "hitPerSecond": 1.1,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 5,
+          "hp": 7,
+          "hitPerSecond": 1.1,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 6,
+          "hp": 7,
+          "hitPerSecond": 1.2,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 7,
+          "hp": 8,
+          "hitPerSecond": 1.2,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 8,
+          "hp": 8,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 9,
+          "hp": 8,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 5
+        },
+        {
+          "level": 10,
+          "hp": 8,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "enUs": "Countess",
+        "ptBr": "Condessa"
+      },
+      "image": "005_countess",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Feed",
+            "ptBr": "Alimentação"
+          },
+          "description": {
+            "enUs": "Appear behind the farthest enemy, deal damage and heal herself",
+            "ptBr": "Apareça atrás do inimigo mais distante, cause dano e cure-se"
+          }
+        },
+        {
+          "level": 2,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Fear",
+            "ptBr": "Temer"
+          },
+          "description": {
+            "enUs": "Feed prevents nearby enemies from healing for a short time",
+            "ptBr": "Alimentação impede que os inimigos próximos curem por um curto período de tempo"
+          }
+        },
+        {
+          "level": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Feast",
+            "ptBr": "Celebração"
+          },
+          "description": {
+            "enUs": "+2 damage when attacking enemies from behind",
+            "ptBr": "+2 de dano ao atacar inimigos por trás"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 8,
+          "hitPerSecond": 1.0,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 2,
+          "hp": 9,
+          "hitPerSecond": 1.0,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 3,
+          "hp": 9,
+          "hitPerSecond": 1.15,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 4,
+          "hp": 9,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 5,
+          "hp": 9,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 6,
+          "hp": 11,
+          "hitPerSecond": 1.3,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 7,
+          "hp": 11,
+          "hitPerSecond": 1.55,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 8,
+          "hp": 13,
+          "hitPerSecond": 1.55,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 9,
+          "hp": 13,
+          "hitPerSecond": 1.8,
+          "damagePerHit": 1,
+          "energyCost": 6
+        },
+        {
+          "level": 10,
+          "hp": 13,
+          "hitPerSecond": 1.8,
+          "damagePerHit": 1,
+          "energyCost": 6
+        }
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": 1,
+      "name": {
+        "enUs": "Windy Plains",
+        "ptBr": "Planícies Ventosas"
+      },
+      "image": "001_windy_plains",
+      "trophiesRequired": 0
+    },
+    {
+      "id": 2,
+      "name": {
+        "enUs": "Healing Temple",
+        "ptBr": "Templo de Cura"
+      },
+      "image": "002_healing_temple",
+      "trophiesRequired": 0
+    },
+    {
+      "id": 3,
+      "name": {
+        "enUs": "Electro Valley",
+        "ptBr": "Vale Eletro"
+      },
+      "image": "003_electro_valley",
+      "trophiesRequired": 0
+    }
+  ],
+  "patch": [
+    {
+      "id": 1,
+      "date": "11/12/2021",
+      "description": {
+        "enUs": "a. Countess:\ni. Base Attack Speed reduced to 0.9 from 1.0\nii. Super - Feed damage increased to 3 from 2\niii. Super - Feed casting speed slightly increased\niv. Super - Feed energy to cast reduced to 5 from 6\nb. Monk:\ni. Attack Speed increased to 0.8 from 0.6\nii. Super - Peace Maker casting speed slightly increased\niii. Super - Peace Maker stun duration increased by 2s\nc. Archer Queen:\ni. Super - Crossbow casting speed slightly increased\nii. Super - Crossbow energy to cast reduced to 7 from 8\nd. Barbarian King:\ni. Base HP increased to 13 from 12\nii. Super - Iron Fist duration increased to 4s from 3s\ne. Shield Maiden:\ni. Attack Speed increased to 0.45 from 0.4\nii. Super - Magic Shield duration reduced by 1s\niii. Super - Magic Shield cast speed slightly increased\niv. Base HP reduced to 15 from 16",
+        "ptBr": "a. Condessa:\ni. Velocidade de ataque base reduzida de 1.0 para 0.9\nii. Super - dano de Alimentação aumentado de 2 para 3\niii. Velocidade de fundição de Superalimentação ligeiramente aumentada\niv. Super - energia de Alimentação para lançar reduzida de 6 para 5\nb. Monge:\ni. Velocidade de ataque aumentada de 0.6 para 0.8\nii. Super - Velocidade de lançamento do Pacificador ligeiramente aumentada\niii. Super - Duração do atordoamento do Pacificador aumentada em 2s\nc. Archer Queen:\ni. Super - Velocidade de lançamento da Besta ligeiramente aumentada\nii. Super - energia da Besta para lançar reduzida de 8 para 7\nd. Rei Bárbaro:\ni. A base de HP aumentou de 12 para 13\nii. Super - duração do Punho de Ferro aumentada de 3s para 4s\ne. Shield Maiden:\ni. Velocidade de ataque aumentada de 0.4 para 0.45\nii. Super - duração do Escudo Mágico reduzida em 1s\niii. Super - velocidade de lançamento do Escudo Mágico ligeiramente aumentada\niv. HP básico reduzido de 16 para 15"
+      }
+    }
+  ]
+}
