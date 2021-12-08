@@ -17,11 +17,11 @@
         "ko": false,
         "name": {
           "enUs": "Chivalry",
-          "ptBr": "Chivalry"
+          "ptBr": "Cavalheirismo"
         },
         "description": {
           "enUs": "Gain Block for a short time",
-          "ptBr": "Gain Block for a short time"
+          "ptBr": "Ganho de Bloqueio por um curto período de tempo"
         }
       },
       "abilities": [
