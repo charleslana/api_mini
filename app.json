@@ -2513,6 +2513,7 @@
         "enUs": "Windy Plains",
         "ptBr": "Planícies Ventosas"
       },
+      "description": null,
       "image": "001_windy_plains",
       "trophiesRequired": 0
     },
@@ -2521,6 +2522,10 @@
       "name": {
         "enUs": "Healing Temple",
         "ptBr": "Templo de Cura"
+      },
+      "description": {
+        "enUs": "Keep your superstar Mini or Hero in play for longer with the Healing Star, Unit placed here heals 1HP every 2 seconds",
+        "ptBr": "Mantenha seu superstar Mini ou Herói em jogo por mais tempo com a Healing Star, a unidade colocada aqui cura 1HP a cada 2 segundos"
       },
       "image": "002_healing_temple",
       "trophiesRequired": 100
@@ -2531,8 +2536,25 @@
         "enUs": "Electro Valley",
         "ptBr": "Vale Eletro"
       },
+      "description": {
+        "enUs": "It's all about Super abilities down in the Electro Valley, Supercharger, unit placed here gains 6 Energy at the start of battle",
+        "ptBr": "É tudo sobre Super habilidades no Vale do Eletro, Superalimentador, a unidade colocada aqui ganha 6 de Energia no início da batalha"
+      },
       "image": "003_electro_valley",
       "trophiesRequired": 100
+    },
+    {
+      "id": 4,
+      "name": {
+        "enUs": "Banquet Hall",
+        "ptBr": "Salão de Banquetes"
+      },
+      "description": {
+        "enUs": "Feast or Famine!? Mastering the Magic Mirror is no easy task! Duplicate unit placed here, give both units -60% HP",
+        "ptBr": "Festa ou Fome!? Dominar o Espelho Mágico não é uma tarefa fácil! Unidade colocada aqui é Duplicada e ambas as unidades tem -60% HP"
+      },
+      "image": "004_banquet_hall",
+      "trophiesRequired": 400
     }
   ],
   "patch": [
@@ -2543,6 +2565,128 @@
         "enUs": "a. Countess:\ni. Base Attack Speed reduced to 0.9 from 1.0\nii. Super - Feed damage increased to 3 from 2\niii. Super - Feed casting speed slightly increased\niv. Super - Feed energy to cast reduced to 5 from 6\nb. Monk:\ni. Attack Speed increased to 0.8 from 0.6\nii. Super - Peace Maker casting speed slightly increased\niii. Super - Peace Maker stun duration increased by 2s\nc. Archer Queen:\ni. Super - Crossbow casting speed slightly increased\nii. Super - Crossbow energy to cast reduced to 7 from 8\nd. Barbarian King:\ni. Base HP increased to 13 from 12\nii. Super - Iron Fist duration increased to 4s from 3s\ne. Shield Maiden:\ni. Attack Speed increased to 0.45 from 0.4\nii. Super - Magic Shield duration reduced by 1s\niii. Super - Magic Shield cast speed slightly increased\niv. Base HP reduced to 15 from 16",
         "ptBr": "a. Condessa:\ni. Velocidade de ataque base reduzida de 1.0 para 0.9\nii. Super - dano de Alimentação aumentado de 2 para 3\niii. Velocidade de fundição de Superalimentação ligeiramente aumentada\niv. Super - energia de Alimentação para lançar reduzida de 6 para 5\nb. Monge:\ni. Velocidade de ataque aumentada de 0.6 para 0.8\nii. Super - Velocidade de lançamento do Pacificador ligeiramente aumentada\niii. Super - Duração do atordoamento do Pacificador aumentada em 2s\nc. Archer Queen:\ni. Super - Velocidade de lançamento da Besta ligeiramente aumentada\nii. Super - energia da Besta para lançar reduzida de 8 para 7\nd. Rei Bárbaro:\ni. A base de HP aumentou de 12 para 13\nii. Super - duração do Punho de Ferro aumentada de 3s para 4s\ne. Shield Maiden:\ni. Velocidade de ataque aumentada de 0.4 para 0.45\nii. Super - duração do Escudo Mágico reduzida em 1s\niii. Super - velocidade de lançamento do Escudo Mágico ligeiramente aumentada\niv. HP básico reduzido de 16 para 15"
       }
+    }
+  ],
+  "rank": [
+    {
+      "id": 1,
+      "name": {
+        "enUs": "Apprentice 3",
+        "ptBr": "Aprendiz 3"
+      },
+      "trophies": 5
+    },
+    {
+      "id": 2,
+      "name": {
+        "enUs": "Apprentice 2",
+        "ptBr": "Aprendiz 2"
+      },
+      "trophies": 25
+    },
+    {
+      "id": 3,
+      "name": {
+        "enUs": "Apprentice 1",
+        "ptBr": "Aprendiz 1"
+      },
+      "trophies": 50
+    },
+    {
+      "id": 4,
+      "name": {
+        "enUs": "Silver 3",
+        "ptBr": "Prata 3"
+      },
+      "trophies": 100
+    },
+    {
+      "id": 5,
+      "name": {
+        "enUs": "Silver 2",
+        "ptBr": "Prata 2"
+      },
+      "trophies": 200
+    },
+    {
+      "id": 6,
+      "name": {
+        "enUs": "Silver 1",
+        "ptBr": "Prata 1"
+      },
+      "trophies": 300
+    },
+    {
+      "id": 7,
+      "name": {
+        "enUs": "Gold 3",
+        "ptBr": "Ouro 3"
+      },
+      "trophies": 400
+    },
+    {
+      "id": 8,
+      "name": {
+        "enUs": "Gold 2",
+        "ptBr": "Ouro 2"
+      },
+      "trophies": 500
+    },
+    {
+      "id": 9,
+      "name": {
+        "enUs": "Gold 1",
+        "ptBr": "Ouro 1"
+      },
+      "trophies": 600
+    },
+    {
+      "id": 10,
+      "name": {
+        "enUs": "Diamond 3",
+        "ptBr": "Diamante 3"
+      },
+      "trophies": 700
+    },
+    {
+      "id": 11,
+      "name": {
+        "enUs": "Diamond 2",
+        "ptBr": "Diamante 2"
+      },
+      "trophies": 800
+    },
+    {
+      "id": 12,
+      "name": {
+        "enUs": "Diamond 1",
+        "ptBr": "Diamante 1"
+      },
+      "trophies": 900
+    },
+    {
+      "id": 13,
+      "name": {
+        "enUs": "Master",
+        "ptBr": "Mestre"
+      },
+      "trophies": 1000
+    },
+    {
+      "id": 14,
+      "name": {
+        "enUs": "Grand Master",
+        "ptBr": "Grande Mestre"
+      },
+      "trophies": 1100
+    },
+    {
+      "id": 15,
+      "name": {
+        "enUs": "Legendary",
+        "ptBr": "Lendário"
+      },
+      "trophies": 1200
     }
   ]
 }
