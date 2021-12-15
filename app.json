@@ -1939,70 +1939,70 @@
       "stats": [
         {
           "level": 1,
-          "hp": 12,
+          "hp": 13,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 2,
-          "hp": 14,
+          "hp": 15,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 3,
-          "hp": 16,
+          "hp": 17,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 4,
-          "hp": 16,
+          "hp": 17,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 5,
-          "hp": 16,
+          "hp": 17,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 6,
-          "hp": 19,
+          "hp": 20,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 7,
-          "hp": 19,
+          "hp": 20,
           "hitPerSecond": 1.05,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 8,
-          "hp": 23,
+          "hp": 24,
           "hitPerSecond": 1.05,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 9,
-          "hp": 23,
+          "hp": 24,
           "hitPerSecond": 1.25,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 10,
-          "hp": 23,
+          "hp": 24,
           "hitPerSecond": 1.25,
           "damagePerHit": 1,
           "energyCost": 10
@@ -2064,70 +2064,70 @@
         {
           "level": 1,
           "hp": 12,
-          "hitPerSecond": 0.6,
+          "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 2,
           "hp": 14,
-          "hitPerSecond": 0.6,
+          "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 3,
           "hp": 14,
-          "hitPerSecond": 0.7,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 4,
           "hp": 14,
-          "hitPerSecond": 0.7,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 5,
           "hp": 14,
-          "hitPerSecond": 0.7,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 6,
           "hp": 17,
-          "hitPerSecond": 0.7,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 7,
           "hp": 17,
-          "hitPerSecond": 0.85,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 8,
           "hp": 21,
-          "hitPerSecond": 0.85,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 9,
           "hp": 21,
-          "hitPerSecond": 0.85,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
           "energyCost": 8
         },
         {
           "level": 10,
           "hp": 21,
-          "hitPerSecond": 0.85,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
           "energyCost": 8
         }
@@ -2187,71 +2187,71 @@
       "stats": [
         {
           "level": 1,
-          "hp": 16,
-          "hitPerSecond": 0.4,
+          "hp": 15,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 2,
-          "hp": 18,
-          "hitPerSecond": 0.4,
+          "hp": 17,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 3,
-          "hp": 20,
-          "hitPerSecond": 0.4,
+          "hp": 19,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 10
         },
         {
           "level": 4,
-          "hp": 20,
-          "hitPerSecond": 0.4,
+          "hp": 19,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 5,
-          "hp": 20,
-          "hitPerSecond": 0.4,
+          "hp": 19,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 6,
-          "hp": 23,
-          "hitPerSecond": 0.4,
+          "hp": 22,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 9
         },
         {
           "level": 7,
-          "hp": 23,
-          "hitPerSecond": 0.4,
+          "hp": 22,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 8
         },
         {
           "level": 8,
-          "hp": 27,
-          "hitPerSecond": 0.4,
+          "hp": 26,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 8
         },
         {
           "level": 9,
-          "hp": 31,
-          "hitPerSecond": 0.4,
+          "hp": 30,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 8
         },
         {
           "level": 10,
-          "hp": 31,
-          "hitPerSecond": 0.4,
+          "hp": 30,
+          "hitPerSecond": 0.45,
           "damagePerHit": 1,
           "energyCost": 8
         }
@@ -2436,72 +2436,72 @@
         {
           "level": 1,
           "hp": 8,
-          "hitPerSecond": 1.0,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 2,
           "hp": 9,
-          "hitPerSecond": 1.0,
+          "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 3,
           "hp": 9,
-          "hitPerSecond": 1.15,
+          "hitPerSecond": 1.05,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 4,
           "hp": 9,
-          "hitPerSecond": 1.3,
+          "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 5,
           "hp": 9,
-          "hitPerSecond": 1.3,
+          "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 6,
           "hp": 11,
-          "hitPerSecond": 1.3,
+          "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 7,
           "hp": 11,
-          "hitPerSecond": 1.55,
+          "hitPerSecond": 1.45,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 8,
           "hp": 13,
-          "hitPerSecond": 1.55,
+          "hitPerSecond": 1.45,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 9,
           "hp": 13,
-          "hitPerSecond": 1.8,
+          "hitPerSecond": 1.7,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         },
         {
           "level": 10,
           "hp": 13,
-          "hitPerSecond": 1.8,
+          "hitPerSecond": 1.7,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 5
         }
       ]
     }
@@ -2687,6 +2687,120 @@
         "ptBr": "Lendário"
       },
       "trophies": 1200
+    }
+  ],
+  "deck": [
+    {
+      "id": 1,
+      "name": {
+        "enUs": "Archer queen Deck Variant 1",
+        "ptBr": "Variante 1 do Deck da Rainha Arqueira"
+      },
+      "description": {
+        "enUs": "Skeleton Guard Deck to protect Queen Archer against Countess or minis that attack from a distance",
+        "ptBr": "Deck com Guarda Esqueleto para proteger a Rainha Arqueira contra Condessa ou minis que atacam a distância"
+      },
+      "image": "archer_queen",
+      "heroId": 4,
+      "minisId": [4, 8, 12, 19, 20]
+    },
+    {
+      "id": 2,
+      "name": {
+        "enUs": "Archer queen Deck Variant 2",
+        "ptBr": "Variante 2 do Deck da Rainha Arqueira"
+      },
+      "description": {
+        "enUs": "Deck with Miner to attack heroes that attack from a distance, for example Queen Archer",
+        "ptBr": "Deck com Mineiro para atacar heróis que atacam a distância, exemplo a Rainha Arqueira"
+      },
+      "image": "archer_queen",
+      "heroId": 4,
+      "minisId": [4, 8, 12, 19, 3]
+    },
+    {
+      "id": 3,
+      "name": {
+        "enUs": "Archer queen Deck Variant 3",
+        "ptBr": "Variante 3 do Deck da Rainha Arqueira"
+      },
+      "description": {
+        "enUs": "Knight Deck to protect Queen Archer against Countess or minis that attack from a distance",
+        "ptBr": "Deck com Cavaleiro para proteger a Rainha Arqueira contra Condessa ou minis que atacam a distância"
+      },
+      "image": "archer_queen",
+      "heroId": 4,
+      "minisId": [4, 8, 12, 19, 1]
+    },
+    {
+      "id": 4,
+      "name": {
+        "enUs": "Shield Maiden Deck",
+        "ptBr": "Deck da Dama do Escudo"
+      },
+      "description": {
+        "enUs": "A Dama do Escudo se torna uma ótima Defesa para que os minis a distância possa a atacar seus adversários, o Mineiro é eficiente contra heróis ou minis que atacam a distância",
+        "ptBr": "The Shield Maiden makes a great Defense for the minis from a distance to attack their opponents, the Miner is effective against heroes or minis that attack from a distance."
+      },
+      "image": "shield_maiden",
+      "heroId": 3,
+      "minisId": [3, 5, 16, 19, 20]
+    },
+    {
+      "id": 5,
+      "name": {
+        "enUs": "Countess Deck",
+        "ptBr": "Deck da Condessa"
+      },
+      "description": {
+        "enUs": "A Condessa tem grande vantagem para poder se teletransportar até o último alvo do tabuleiro, além de se curar, os minis atuais tem grande potencial para dar conta do adversário",
+        "ptBr": "The Countess has great advantage to be able to teleport to the last target on the board, in addition to healing, the current minis have great potential to take care of the opponent"
+      },
+      "image": "countess",
+      "heroId": 5,
+      "minisId": [4, 8, 12, 19, 3]
+    },
+    {
+      "id": 6,
+      "name": {
+        "enUs": "Barbarian King Deck Iron Fist",
+        "ptBr": "Deck do Rei Bárbaro Punho de Ferro"
+      },
+      "description": {
+        "enUs": "O Rei Bárbaro garante o poder aumentado para todos os seus minis",
+        "ptBr": "Barbarian King grants increased power to all his minis"
+      },
+      "image": "barbarian_king",
+      "heroId": 1,
+      "minisId": [4, 5, 12, 19, 3]
+    },
+    {
+      "id": 7,
+      "name": {
+        "enUs": "Barbarian King Deck Iron Fist fast",
+        "ptBr": "Deck do Rei Bárbaro Punho de Ferro rápido"
+      },
+      "description": {
+        "enUs": "O Rei Bárbaro garante o poder aumentado para todos os seus minis",
+        "ptBr": "Barbarian King grants increased power to all his minis"
+      },
+      "image": "barbarian_king",
+      "heroId": 1,
+      "minisId": [4, 5, 6, 7, 3]
+    },
+    {
+      "id": 8,
+      "name": {
+        "enUs": "Monk Deck",
+        "ptBr": "Deck do Monge"
+      },
+      "description": {
+        "enUs": "O Monge tem um super que pode incomodar seus oponentes",
+        "ptBr": "The Monk has a super that can annoy his opponents"
+      },
+      "image": "monk",
+      "heroId": 2,
+      "minisId": [5, 12, 14, 19, 3]
     }
   ]
 }
