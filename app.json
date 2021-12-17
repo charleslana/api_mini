@@ -2702,7 +2702,8 @@
       },
       "image": "archer_queen",
       "heroId": 4,
-      "minisId": [4, 8, 12, 19, 20]
+      "minisId": [4, 8, 12, 19, 20],
+      "rank": 1
     },
     {
       "id": 2,
@@ -2711,12 +2712,13 @@
         "ptBr": "Variante 2 do Deck da Rainha Arqueira"
       },
       "description": {
-        "enUs": "Deck with Miner to attack heroes that attack from a distance, for example Queen Archer",
-        "ptBr": "Deck com Mineiro para atacar heróis que atacam a distância, exemplo a Rainha Arqueira"
+        "enUs": "Deck with Miner to attack heroes or minis that attack from a distance, eg Queen Archer",
+        "ptBr": "Deck com Mineiro para atacar heróis ou minis que atacam a distância, exemplo a Rainha Arqueira"
       },
       "image": "archer_queen",
       "heroId": 4,
-      "minisId": [4, 8, 12, 19, 3]
+      "minisId": [4, 8, 12, 19, 3],
+      "rank": 2
     },
     {
       "id": 3,
@@ -2730,7 +2732,8 @@
       },
       "image": "archer_queen",
       "heroId": 4,
-      "minisId": [4, 8, 12, 19, 1]
+      "minisId": [4, 8, 12, 19, 1],
+      "rank": 3
     },
     {
       "id": 4,
@@ -2739,12 +2742,13 @@
         "ptBr": "Deck da Dama do Escudo"
       },
       "description": {
-        "enUs": "A Dama do Escudo se torna uma ótima Defesa para que os minis a distância possa a atacar seus adversários, o Mineiro é eficiente contra heróis ou minis que atacam a distância",
-        "ptBr": "The Shield Maiden makes a great Defense for the minis from a distance to attack their opponents, the Miner is effective against heroes or minis that attack from a distance."
+        "enUs": "The Shield Maiden makes a great Defense for the minis from a distance to attack their opponents, the Miner is effective against heroes or minis that attack from a distance",
+        "ptBr": "A Dama do Escudo se torna uma ótima Defesa para que os minis a distância possa a atacar seus adversários, o Mineiro é eficiente contra heróis ou minis que atacam a distância"
       },
       "image": "shield_maiden",
       "heroId": 3,
-      "minisId": [3, 5, 16, 19, 20]
+      "minisId": [3, 5, 16, 19, 20],
+      "rank": 5
     },
     {
       "id": 5,
@@ -2753,12 +2757,13 @@
         "ptBr": "Deck da Condessa"
       },
       "description": {
-        "enUs": "A Condessa tem grande vantagem para poder se teletransportar até o último alvo do tabuleiro, além de se curar, os minis atuais tem grande potencial para dar conta do adversário",
-        "ptBr": "The Countess has great advantage to be able to teleport to the last target on the board, in addition to healing, the current minis have great potential to take care of the opponent"
+        "enUs": "Countess has great advantage to be able to teleport to the last target on the board, in addition to healing, the current minis have great potential to guarantee victory",
+        "ptBr": "A Condessa tem grande vantagem para poder se teletransportar até o último alvo do tabuleiro, além de se curar, os minis atuais tem grande potencial para garantir a vitória"
       },
       "image": "countess",
       "heroId": 5,
-      "minisId": [4, 8, 12, 19, 3]
+      "minisId": [4, 8, 12, 19, 3],
+      "rank": 4
     },
     {
       "id": 6,
@@ -2767,12 +2772,13 @@
         "ptBr": "Deck do Rei Bárbaro Punho de Ferro"
       },
       "description": {
-        "enUs": "O Rei Bárbaro garante o poder aumentado para todos os seus minis",
-        "ptBr": "Barbarian King grants increased power to all his minis"
+        "enUs": "Barbarian King grants increased power to all his minis",
+        "ptBr": "O Rei Bárbaro garante o poder aumentado para todos os seus minis"
       },
       "image": "barbarian_king",
       "heroId": 1,
-      "minisId": [4, 5, 12, 19, 3]
+      "minisId": [4, 5, 12, 19, 3],
+      "rank": 6
     },
     {
       "id": 7,
@@ -2781,12 +2787,13 @@
         "ptBr": "Deck do Rei Bárbaro Punho de Ferro rápido"
       },
       "description": {
-        "enUs": "O Rei Bárbaro garante o poder aumentado para todos os seus minis",
-        "ptBr": "Barbarian King grants increased power to all his minis"
+        "enUs": "Barbarian King grants increased power to all his minis",
+        "ptBr": "O Rei Bárbaro garante o poder aumentado para todos os seus minis"
       },
       "image": "barbarian_king",
       "heroId": 1,
-      "minisId": [4, 5, 6, 7, 3]
+      "minisId": [4, 5, 6, 7, 3],
+      "rank": 7
     },
     {
       "id": 8,
@@ -2795,12 +2802,13 @@
         "ptBr": "Deck do Monge"
       },
       "description": {
-        "enUs": "O Monge tem um super que pode incomodar seus oponentes",
-        "ptBr": "The Monk has a super that can annoy his opponents"
+        "enUs": "The Monk has a super that can annoy his opponents",
+        "ptBr": "O Monge tem um super que pode incomodar seus oponentes"
       },
       "image": "monk",
       "heroId": 2,
-      "minisId": [5, 12, 14, 19, 3]
+      "minisId": [5, 12, 14, 19, 3],
+      "rank": 8
     }
   ]
 }
