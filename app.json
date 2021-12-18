@@ -2399,8 +2399,8 @@
             "ptBr": "Alimentação"
           },
           "description": {
-            "enUs": "Appear behind the farthest enemy, deal damage and heal herself",
-            "ptBr": "Apareça atrás do inimigo mais distante, cause dano e cure-se"
+            "enUs": "Appear behind the farthest enemy, deal damage and heal herself 3HP",
+            "ptBr": "Apareça atrás do inimigo mais distante, cause dano e cure-se 3HP"
           }
         },
         {
