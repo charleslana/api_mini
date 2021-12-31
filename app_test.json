@@ -189,7 +189,7 @@
         {
           "star": 3,
           "hp": 13,
-          "hitPerSecond": 0.7
+          "hitPerSecond": 1.2
         }
       ]
     },
