@@ -2931,8 +2931,8 @@
         "ptBr": "Vale Eletro"
       },
       "description": {
-        "enUs": "It's all about Super abilities down in the Electro Valley, Supercharger, unit placed here gains 6 Energy at the start of battle",
-        "ptBr": "É tudo sobre Super habilidades no Vale do Eletro, Superalimentador, a unidade colocada aqui ganha 6 de Energia no início da batalha"
+        "enUs": "It's all about Super abilities down in the Electro Valley, Supercharger, unit placed here gains 2 Energy at the start of battle",
+        "ptBr": "É tudo sobre Super habilidades no Vale do Eletro, Superalimentador, a unidade colocada aqui ganha 2 de Energia no início da batalha"
       },
       "image": "electro_valley",
       "trophiesRequired": 100
