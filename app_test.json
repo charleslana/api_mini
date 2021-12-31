@@ -184,7 +184,7 @@
         {
           "star": 2,
           "hp": 11,
-          "hitPerSecond": 1
+          "hitPerSecond": 1.0
         },
         {
           "star": 3,
