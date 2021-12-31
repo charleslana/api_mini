@@ -74,6 +74,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 8,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -168,6 +169,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -240,7 +242,7 @@
           },
           "description": {
             "enUs": "HUGE speed bonus for a short time",
-            "ptBr": "ENORME bônus de Velocidade por um curto período de tempo"
+            "ptBr": "GRANDE bônus de Velocidade por um curto período de tempo"
           }
         },
         {
@@ -262,6 +264,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -349,13 +352,14 @@
           },
           "description": {
             "enUs": "HUGE Speed increase for a short time",
-            "ptBr": "ENORME aumento de Velocidade por um curto período de tempo"
+            "ptBr": "GRANDE aumento de Velocidade por um curto período de tempo"
           }
         }
       ],
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -450,6 +454,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -544,6 +549,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -601,7 +607,7 @@
           },
           "description": {
             "enUs": "Frost Bolt will greatly Slow enemies",
-            "ptBr": "Parafuso de Gelo irá retardar enormemente os inimigos"
+            "ptBr": "Parafuso de Gelo irá retardar GRANDEmente os inimigos"
           }
         },
         {
@@ -638,6 +644,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -732,6 +739,7 @@
       "elixirCost": 3,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -826,6 +834,7 @@
       "elixirCost": 3,
       "damagePerHit": 1,
       "energyCost": 5,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -920,6 +929,7 @@
       "elixirCost": 3,
       "damagePerHit": 2,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1014,6 +1024,7 @@
       "elixirCost": 3,
       "damagePerHit": 1,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1108,6 +1119,7 @@
       "elixirCost": 3,
       "damagePerHit": 2,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1202,6 +1214,7 @@
       "elixirCost": 3,
       "damagePerHit": 1,
       "energyCost": 5,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1296,6 +1309,7 @@
       "elixirCost": 4,
       "damagePerHit": 3,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1383,13 +1397,14 @@
           },
           "description": {
             "enUs": "HUGE Speed increase for a short time",
-            "ptBr": "ENORME aumento de Velocidade por um curto período de tempo"
+            "ptBr": "GRANDE aumento de Velocidade por um curto período de tempo"
           }
         }
       ],
       "elixirCost": 3,
       "damagePerHit": 2,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1484,6 +1499,7 @@
       "elixirCost": 4,
       "damagePerHit": 2,
       "energyCost": 0,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1578,6 +1594,7 @@
       "elixirCost": 4,
       "damagePerHit": 1,
       "energyCost": 8,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1672,6 +1689,7 @@
       "elixirCost": 4,
       "damagePerHit": 1,
       "energyCost": 8,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1766,6 +1784,7 @@
       "elixirCost": 4,
       "damagePerHit": 1,
       "energyCost": 4,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1838,7 +1857,7 @@
           },
           "description": {
             "enUs": "HUGE speed increase while Shield-up! is active",
-            "ptBr": "ENORME aumento de velocidade enquanto Escudo está ativo"
+            "ptBr": "GRANDE aumento de velocidade enquanto Escudo está ativo"
           }
         },
         {
@@ -1860,6 +1879,7 @@
       "elixirCost": 2,
       "damagePerHit": 1,
       "energyCost": 6,
+      "initialEnergy": 0,
       "stats": [
         {
           "star": 0,
@@ -1880,6 +1900,196 @@
           "star": 3,
           "hp": 14,
           "hitPerSecond": 0.7
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": {
+        "enUs": "Prince",
+        "ptBr": "Príncipe"
+      },
+      "image": "prince",
+      "skill": {
+        "clash": true,
+        "super": false,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Charge!!!",
+          "ptBr": "Avançar!!!"
+        },
+        "description": {
+          "enUs": "Charge forward dealing damage and pushing back enemy on hit",
+          "ptBr": "Avance, causando dano e empurrando o inimigo para trás ao acertar"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Long Lance",
+            "ptBr": "Lança Longa"
+          },
+          "description": {
+            "enUs": "Charge!!! gains +5 damage",
+            "ptBr": "Avançar!!! ganha +5 de dano"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Excitement",
+            "ptBr": "Excitação"
+          },
+          "description": {
+            "enUs": "HUGE speed bonus for 6s, After defeating an enemy",
+            "ptBr": "GRANDE bônus de velocidade por 6s, Depois de derrotar um inimigo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": true,
+          "name": {
+            "enUs": "True Friend",
+            "ptBr": "Amigo Verdadeiro"
+          },
+          "description": {
+            "enUs": "Your old pal, Pony fights on!!, After this mini is defeated",
+            "ptBr": "Seu velho amigo, Pony continua lutando !!, Após este mini ser derrotado"
+          }
+        }
+      ],
+      "elixirCost": 4,
+      "damagePerHit": 2,
+      "energyCost": 0,
+      "initialEnergy": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 10,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 1,
+          "hp": 12,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 2,
+          "hp": 14,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 3,
+          "hp": 16,
+          "hitPerSecond": 0.4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": {
+        "enUs": "Musketeer",
+        "ptBr": "Mosqueteira"
+      },
+      "image": "musketeer",
+      "skill": {
+        "clash": false,
+        "super": true,
+        "boast": false,
+        "ko": false,
+        "name": {
+          "enUs": "Snipe",
+          "ptBr": "Snipe"
+        },
+        "description": {
+          "enUs": "Stun, push back and deal damage to target",
+          "ptBr": "Atordoar, empurrar para trás e causar dano ao alvo"
+        }
+      },
+      "abilities": [
+        {
+          "star": 1,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": false,
+          "name": {
+            "enUs": "Stun Shot",
+            "ptBr": "Tiro Atordoante"
+          },
+          "description": {
+            "enUs": "Snipe +2.5s Stun Duration",
+            "ptBr": "Snipe + 2.5s de Duração de Atordoamento"
+          }
+        },
+        {
+          "star": 2,
+          "clash": false,
+          "super": false,
+          "boast": true,
+          "ko": false,
+          "name": {
+            "enUs": "Humble",
+            "ptBr": "Humilde"
+          },
+          "description": {
+            "enUs": "Heal 6HP over 3s, After defeating an enemy",
+            "ptBr": "Cure 6HP ao longo de 3s, Após derrotar um inimigo"
+          }
+        },
+        {
+          "star": 3,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "ko": true,
+          "name": {
+            "enUs": "2-for-1",
+            "ptBr": "2-por-1"
+          },
+          "description": {
+            "enUs": "Snipe Hits 1 extra target",
+            "ptBr": "Snipe acerta 1 alvo extra"
+          }
+        }
+      ],
+      "elixirCost": 3,
+      "damagePerHit": 1,
+      "energyCost": 4,
+      "initialEnergy": 0,
+      "stats": [
+        {
+          "star": 0,
+          "hp": 7,
+          "hitPerSecond": 0.55
+        },
+        {
+          "star": 1,
+          "hp": 9,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 2,
+          "hp": 11,
+          "hitPerSecond": 0.4
+        },
+        {
+          "star": 3,
+          "hp": 13,
+          "hitPerSecond": 0.4
         }
       ]
     }
@@ -1942,70 +2152,80 @@
           "hp": 13,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 2,
           "hp": 15,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 3,
           "hp": 17,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 4,
           "hp": 17,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 5,
           "hp": 17,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 6,
           "hp": 20,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 7,
           "hp": 20,
           "hitPerSecond": 1.05,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 8,
           "hp": 24,
           "hitPerSecond": 1.05,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 24,
           "hitPerSecond": 1.25,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 24,
           "hitPerSecond": 1.25,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         }
       ]
     },
@@ -2066,70 +2286,80 @@
           "hp": 12,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 2,
           "hp": 14,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 3,
           "hp": 14,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 4,
           "hp": 14,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 5,
           "hp": 14,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 6,
           "hp": 17,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 7,
           "hp": 17,
           "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 8,
           "hp": 21,
           "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 21,
           "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 21,
           "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         }
       ]
     },
@@ -2190,70 +2420,80 @@
           "hp": 15,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 2,
           "hp": 17,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 3,
           "hp": 19,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 10
+          "energyCost": 10,
+          "initialEnergy": 0
         },
         {
           "level": 4,
           "hp": 19,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 5,
           "hp": 19,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 6,
           "hp": 22,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 9
+          "energyCost": 9,
+          "initialEnergy": 0
         },
         {
           "level": 7,
           "hp": 22,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         },
         {
           "level": 8,
           "hp": 26,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 30,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 30,
           "hitPerSecond": 0.45,
           "damagePerHit": 1,
-          "energyCost": 8
+          "energyCost": 8,
+          "initialEnergy": 0
         }
       ]
     },
@@ -2276,7 +2516,7 @@
           },
           "description": {
             "enUs": "HUGE speed increase, and attacks hit 3 enemies for a short time",
-            "ptBr": "ENORME aumento de velocidade, e os ataques atingem 3 inimigos por um curto período de tempo"
+            "ptBr": "GRANDE aumento de velocidade, e os ataques atingem 3 inimigos por um curto período de tempo"
           }
         },
         {
@@ -2314,70 +2554,80 @@
           "hp": 6,
           "hitPerSecond": 1.0,
           "damagePerHit": 1,
-          "energyCost": 7
+          "energyCost": 7,
+          "initialEnergy": 0
         },
         {
           "level": 2,
           "hp": 6,
           "hitPerSecond": 1.1,
           "damagePerHit": 1,
-          "energyCost": 7
+          "energyCost": 7,
+          "initialEnergy": 0
         },
         {
           "level": 3,
           "hp": 7,
           "hitPerSecond": 1.1,
           "damagePerHit": 1,
-          "energyCost": 7
+          "energyCost": 7,
+          "initialEnergy": 0
         },
         {
           "level": 4,
           "hp": 7,
           "hitPerSecond": 1.1,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 6,
+          "initialEnergy": 0
         },
         {
           "level": 5,
           "hp": 7,
           "hitPerSecond": 1.1,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 6,
+          "initialEnergy": 0
         },
         {
           "level": 6,
           "hp": 7,
           "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 6,
+          "initialEnergy": 0
         },
         {
           "level": 7,
           "hp": 8,
           "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 6,
+          "initialEnergy": 0
         },
         {
           "level": 8,
           "hp": 8,
           "hitPerSecond": 1.3,
           "damagePerHit": 1,
-          "energyCost": 6
+          "energyCost": 6,
+          "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 8,
           "hitPerSecond": 1.3,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 8,
           "hitPerSecond": 1.3,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         }
       ]
     },
@@ -2438,70 +2688,214 @@
           "hp": 8,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 2,
           "hp": 9,
           "hitPerSecond": 0.9,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 3,
           "hp": 9,
           "hitPerSecond": 1.05,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 4,
           "hp": 9,
           "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 5,
           "hp": 9,
           "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 6,
           "hp": 11,
           "hitPerSecond": 1.2,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 7,
           "hp": 11,
           "hitPerSecond": 1.45,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 8,
           "hp": 13,
           "hitPerSecond": 1.45,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 13,
           "hitPerSecond": 1.7,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 13,
           "hitPerSecond": 1.7,
           "damagePerHit": 1,
-          "energyCost": 5
+          "energyCost": 5,
+          "initialEnergy": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": {
+        "enUs": "Royal Champion",
+        "ptBr": "Campeã Real"
+      },
+      "image": "royal_champion",
+      "levels": [
+        {
+          "level": 1,
+          "clash": false,
+          "super": true,
+          "boast": false,
+          "name": {
+            "enUs": "Bouncing Shield",
+            "ptBr": "Escudo Saltitante"
+          },
+          "description": {
+            "enUs": "Throw a shield that deals 4 damage and stuns the target briefly. Gain full energy if the shield K.Os an enemy",
+            "ptBr": "Jogue um escudo que causa 4 de dano e atordoa o alvo brevemente. Ganhe energia total se o inimigo for derrotado pelo escudo."
+          }
+        },
+        {
+          "level": 5,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Lonely",
+            "ptBr": "Sozinha"
+          },
+          "description": {
+            "enUs": "Increases Attack Speed greatly when she is your last mini in battle",
+            "ptBr": "Aumenta muito a velocidade de ataque quando ela é sua última mini em batalha"
+          }
+        },
+        {
+          "level": 10,
+          "clash": false,
+          "super": false,
+          "boast": false,
+          "name": {
+            "enUs": "Epic Thrown",
+            "ptBr": "Épico Lançado"
+          },
+          "description": {
+            "enUs": "Bouncing Shield gains 1 extra bounce",
+            "ptBr": "Escudo Saltitante ganha 1 salto extra"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "level": 1,
+          "hp": 10,
+          "hitPerSecond": 0.65,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 2,
+          "hp": 10,
+          "hitPerSecond": 0.9,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 3,
+          "hp": 12,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 4,
+          "hp": 12,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 5,
+          "hp": 14,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 6,
+          "hp": 14,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 7,
+          "hp": 14,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 8,
+          "hp": 14,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 9,
+          "hp": 16,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
+        },
+        {
+          "level": 10,
+          "hp": 16,
+          "hitPerSecond": 0.8,
+          "damagePerHit": 1,
+          "energyCost": 6,
+          "initialEnergy": 0
         }
       ]
     }
