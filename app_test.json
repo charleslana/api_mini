@@ -2298,7 +2298,7 @@
       "name": {
         "enUs": "Barbarian King",
         "ptBr": "Rei Bárbaro",
-        "esEs": ""
+        "esEs": "Rey Bárbaro"
       },
       "image": "barbarian_king",
       "levels": [
@@ -2310,12 +2310,12 @@
           "name": {
             "enUs": "Iron Fist",
             "ptBr": "Punho de Ferro",
-            "esEs": ""
+            "esEs": "Puño de Hierro"
           },
           "description": {
             "enUs": "Increase the damage of all allies for a short time.",
             "ptBr": "Aumenta o dano de todos os aliados por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Aumenta el daño que infligen los aliados durante un tiempo breve."
           }
         },
         {
@@ -2326,12 +2326,12 @@
           "name": {
             "enUs": "Born Leader",
             "ptBr": "Líder Nascido",
-            "esEs": ""
+            "esEs": "Líder Nato"
           },
           "description": {
             "enUs": "Iron Fist Heals Barbarian King for 4HP.",
             "ptBr": "Punho de Ferro Cura o Rei Bárbaro em 4HP.",
-            "esEs": ""
+            "esEs": "El Puño de Hierro le regenera 4 puntos de vida al Rey Bárbaro."
           }
         },
         {
@@ -2342,12 +2342,12 @@
           "name": {
             "enUs": "Stamina",
             "ptBr": "Energia",
-            "esEs": ""
+            "esEs": "Resistência"
           },
           "description": {
             "enUs": "Iron Fist duration is doubled.",
             "ptBr": "A duração do Punho de Ferro é duplicada.",
-            "esEs": ""
+            "esEs": "El Puño de Hierro dura el doble de tiempo."
           }
         }
       ],
@@ -2439,7 +2439,7 @@
       "name": {
         "enUs": "Monk",
         "ptBr": "Monge",
-        "esEs": ""
+        "esEs": "Monje"
       },
       "image": "monk",
       "levels": [
@@ -2451,12 +2451,12 @@
           "name": {
             "enUs": "Peace Maker",
             "ptBr": "Pacificador",
-            "esEs": ""
+            "esEs": "Pacificador"
           },
           "description": {
             "enUs": "Monk's next attack is a palm strike that deals 8 damage.",
             "ptBr": "O próximo ataque do Monge é um golpe com a palma da mão que causa 8 de dano.",
-            "esEs": ""
+            "esEs": "Da un guantazo con su pacifica mano que inflige 8 puntos de daño y aturde al objetivo durante 2 segundos."
           }
         },
         {
@@ -2467,12 +2467,12 @@
           "name": {
             "enUs": "Mystic Palm",
             "ptBr": "Palma Mística",
-            "esEs": ""
+            "esEs": "Mano Mística"
           },
           "description": {
             "enUs": "+3 Energy",
             "ptBr": "+3 Energia",
-            "esEs": ""
+            "esEs": "Recibe 3 puntos más de energía."
           }
         },
         {
@@ -2483,12 +2483,12 @@
           "name": {
             "enUs": "Final Peace",
             "ptBr": "Paz Final",
-            "esEs": ""
+            "esEs": "Paz Final"
           },
           "description": {
             "enUs": "Peace Maker deals +7 damage.",
             "ptBr": "Pacificador causa +7 de dano.",
-            "esEs": ""
+            "esEs": "La habilidad Pacificador inflige 7 puntos más de daño."
           }
         }
       ],
@@ -2580,7 +2580,7 @@
       "name": {
         "enUs": "Shield Maiden",
         "ptBr": "Dama do Escudo",
-        "esEs": ""
+        "esEs": "Doncella Escudera"
       },
       "image": "shield_maiden",
       "levels": [
@@ -2592,12 +2592,12 @@
           "name": {
             "enUs": "Magic Shield",
             "ptBr": "Escudo Mágico",
-            "esEs": ""
+            "esEs": "Escudo Mágico"
           },
           "description": {
             "enUs": "Gain Block and reflect some damage back to attackers for a short time.",
             "ptBr": "Ganhe Bloqueio e reflita algum dano de volta para os atacantes por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Adquiere la Habilidad Bloqueo y refleja daño de vuelta a los atacantes durante un tiempo breve."
           }
         },
         {
@@ -2608,12 +2608,12 @@
           "name": {
             "enUs": "Magnetic Shield",
             "ptBr": "Escudo Magnético",
-            "esEs": ""
+            "esEs": "Escudo Magnético"
           },
           "description": {
             "enUs": "Magic Shield forces all enemies to attack Shield Maiden for a short time.",
             "ptBr": "Escudo Mágico força todos os inimigos a atacar a Dama do Escudo por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "La Habilidad Escudo Magnético obliga a los enemigos a atacar a la doncella escudera durante un tiempo breve."
           }
         },
         {
@@ -2624,12 +2624,12 @@
           "name": {
             "enUs": "Will Power",
             "ptBr": "Força de Vontade",
-            "esEs": ""
+            "esEs": "Fuerza de Voluntad"
           },
           "description": {
             "enUs": "+1 Energy.",
             "ptBr": "+1 de Energia.",
-            "esEs": ""
+            "esEs": "Recibe 1 punto más de energía"
           }
         }
       ],
@@ -2721,7 +2721,7 @@
       "name": {
         "enUs": "Archer Queen",
         "ptBr": "Rainha Arqueira",
-        "esEs": ""
+        "esEs": "Reina Arquera"
       },
       "image": "archer_queen",
       "levels": [
@@ -2733,12 +2733,12 @@
           "name": {
             "enUs": "Crossbow",
             "ptBr": "Besta",
-            "esEs": ""
+            "esEs": "Ballesta"
           },
           "description": {
             "enUs": "HUGE speed increase, and attacks hit 3 enemies for a short time.",
             "ptBr": "GRANDE aumento de velocidade, e os ataques atingem 3 inimigos por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Gran Aumento de Velocidad. Su ataque golpea a 3 enemigos durante un tiempo breve."
           }
         },
         {
@@ -2749,12 +2749,12 @@
           "name": {
             "enUs": "Inspire",
             "ptBr": "Inspirar",
-            "esEs": ""
+            "esEs": "Aliento"
           },
           "description": {
             "enUs": "Crossbow increases speed of nearby allies for a short time.",
             "ptBr": "Besta aumenta a velocidade de aliados próximos por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "La Habilidad Ballesta aumenta la velocidad de los aliados cercanos durante un tiempo breve."
           }
         },
         {
@@ -2765,12 +2765,12 @@
           "name": {
             "enUs": "Queen's Rage",
             "ptBr": "Raiva da Rainha",
-            "esEs": ""
+            "esEs": "Furia de la Reina"
           },
           "description": {
             "enUs": "+1 damage for a short time.",
             "ptBr": "+1 dano por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Inflige 1 punto de daño más durante un tiempo breve."
           }
         }
       ],
@@ -2862,7 +2862,7 @@
       "name": {
         "enUs": "Countess",
         "ptBr": "Condessa",
-        "esEs": ""
+        "esEs": "Condesa"
       },
       "image": "countess",
       "levels": [
@@ -2874,12 +2874,12 @@
           "name": {
             "enUs": "Feed",
             "ptBr": "Alimentação",
-            "esEs": ""
+            "esEs": "Transfusión"
           },
           "description": {
             "enUs": "Appear behind the farthest enemy, deal damage and heal herself 3HP.",
             "ptBr": "Apareça atrás do inimigo mais distante, cause dano e cure-se 3HP.",
-            "esEs": ""
+            "esEs": "Aparece detrás del enemigo que se encuentre más lejos, le inflige daño y se cura a si misma."
           }
         },
         {
@@ -2889,13 +2889,13 @@
           "boast": false,
           "name": {
             "enUs": "Fear",
-            "ptBr": "Temer",
-            "esEs": ""
+            "ptBr": "Medo",
+            "esEs": "Miedo"
           },
           "description": {
             "enUs": "Feed prevents nearby enemies from healing for a short time.",
             "ptBr": "Alimentação impede que os inimigos próximos curem por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "La Habilidad Transfusión impide que los enemigos cercanos de curen durante un tiempo breve."
           }
         },
         {
@@ -2906,12 +2906,12 @@
           "name": {
             "enUs": "Feast",
             "ptBr": "Celebração",
-            "esEs": ""
+            "esEs": "Festín"
           },
           "description": {
             "enUs": "+2 damage when attacking enemies from behind.",
             "ptBr": "+2 de dano ao atacar inimigos por trás.",
-            "esEs": ""
+            "esEs": "Inflige 2 puntos de daño extras cuando ataca a los enemigos por la espalda."
           }
         }
       ],
@@ -3003,7 +3003,7 @@
       "name": {
         "enUs": "Royal Champion",
         "ptBr": "Campeã Real",
-        "esEs": ""
+        "esEs": "Luchadora Real"
       },
       "image": "royal_champion",
       "levels": [
@@ -3015,12 +3015,12 @@
           "name": {
             "enUs": "Bouncing Shield",
             "ptBr": "Escudo Saltitante",
-            "esEs": ""
+            "esEs": "Escudo Rebotante"
           },
           "description": {
             "enUs": "Throw a shield that deals 4 damage and stuns the target briefly. Gain full energy if the shield K.Os an enemy.",
             "ptBr": "Jogue um escudo que causa 4 de dano e atordoa o alvo brevemente. Ganhe energia total se o inimigo for derrotado pelo escudo.",
-            "esEs": ""
+            "esEs": "Lanza un escudo que inflige 4 puntos de daño y aturde objetivo brevemente. Recupera toda la energía si el escudo activa el Daño Mortal de un enemigo."
           }
         },
         {
@@ -3031,12 +3031,12 @@
           "name": {
             "enUs": "Lonely",
             "ptBr": "Sozinha",
-            "esEs": ""
+            "esEs": "Soledad"
           },
           "description": {
             "enUs": "Increases Attack Speed greatly when she is your last mini in battle.",
             "ptBr": "Aumenta muito a velocidade de ataque quando ela é sua última mini em batalha.",
-            "esEs": ""
+            "esEs": "Aumenta enormemente su velocidad de ataque cuando es la única de tus minis que queda en pie."
           }
         },
         {
@@ -3046,13 +3046,13 @@
           "boast": false,
           "name": {
             "enUs": "Epic Thrown",
-            "ptBr": "Épico Lançado",
-            "esEs": ""
+            "ptBr": "Escudo Épico",
+            "esEs": "Escudo Épico"
           },
           "description": {
             "enUs": "Bouncing Shield gains 1 extra bounce.",
             "ptBr": "Escudo Saltitante ganha 1 salto extra.",
-            "esEs": ""
+            "esEs": "La Habilidad Escudo Rebotante adquiere 1 rebote extra."
           }
         }
       ],
