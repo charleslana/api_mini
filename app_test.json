@@ -2907,7 +2907,10 @@
         "enUs": "Windy Plains",
         "ptBr": "Planícies Ventosas"
       },
-      "description": null,
+      "description": {
+        "enUs": "First initial board",
+        "ptBr": "Primeiro tabuleiro inicial"
+      },
       "image": "windy_plains",
       "trophiesRequired": 0
     },
