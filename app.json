@@ -2137,8 +2137,8 @@
             "esEs": "Entusiasmo"
           },
           "description": {
-            "enUs": "HUGE speed bonus for 6s, After defeating an enemy.",
-            "ptBr": "Grande bônus de velocidade por 6s, Depois de derrotar um inimigo.",
+            "enUs": "HUGE speed bonus for 6s. Boast: After defeating an enemy.",
+            "ptBr": "Grande bônus de velocidade por 6s. Vangloriar-se: Depois de derrotar um inimigo.",
             "esEs": "Gran bonus de velocidad durante 6 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
@@ -2241,8 +2241,8 @@
             "esEs": "Modestia"
           },
           "description": {
-            "enUs": "Heal 6HP over 3s, After defeating an enemy.",
-            "ptBr": "Cure 6HP ao longo de 3s, Após derrotar um inimigo.",
+            "enUs": "Heal 6HP over 3s. Boast: After defeating an enemy.",
+            "ptBr": "Cure 6HP ao longo de 3s. Vangloriar-se: Após derrotar um inimigo.",
             "esEs": "Regenera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
