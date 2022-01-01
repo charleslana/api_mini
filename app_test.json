@@ -40,9 +40,9 @@
             "esEs": "Armadura"
           },
           "description": {
-            "enUs": "Chivalry +3s Block Duration, Block: Reduce incoming damage by 1",
-            "ptBr": "Cavalheirismo, Duração do Bloqueio de +3s, Bloquear: Reduz o dano recebido em 1",
-            "esEs": "La duración del Bloqueo de la Habilidad Gallardía aumenta 3 segundos, Bloqueo: Reduce 1 punto el daño recebido."
+            "enUs": "Chivalry +3s Block Duration. Block: Reduce incoming damage by 1.",
+            "ptBr": "Cavalheirismo, Duração do Bloqueio de +3s. Bloquear: Reduz o dano recebido em 1.",
+            "esEs": "La duración del Bloqueo de la Habilidad Gallardía aumenta 3 segundos. Bloqueo: Reduce 1 punto el daño recebido."
           }
         },
         {
@@ -74,8 +74,8 @@
             "esEs": "Armadura ligera"
           },
           "description": {
-            "enUs": "Energy needed for Chivalry -1",
-            "ptBr": "Energia necessária para Cavalheirismo -1",
+            "enUs": "Energy needed for Chivalry -1.",
+            "ptBr": "Energia necessária para Cavalheirismo -1.",
             "esEs": "Activar la Habilidad Gallardía cuesta 1 punto de energía menos."
           }
         }
@@ -178,9 +178,9 @@
             "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time, Boast: After defeating an enemy.",
-            "ptBr": "+1 ATK por um curto período de tempo, Vangloriar-se: depois de derrotar um inimigo.",
-            "esEs": "1 Ataque más durante un tiempo breve, Alarde: Se activa tras derrotar a una unidad enemiga."
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: depois de derrotar um inimigo.",
+            "esEs": "1 Ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
       ],
@@ -216,7 +216,7 @@
       "name": {
         "enUs": "Miner",
         "ptBr": "Mineiro",
-        "esEs": ""
+        "esEs": "Minero"
       },
       "image": "miner",
       "skill": {
@@ -226,13 +226,13 @@
         "ko": false,
         "name": {
           "enUs": "Burrow",
-          "ptBr": "Toca",
-          "esEs": ""
+          "ptBr": "Escavação",
+          "esEs": "Excavación"
         },
         "description": {
           "enUs": "Tunnel to the back of your opponent's board.",
-          "ptBr": "Mergulhe para a parte de trás do tabuleiro do seu oponente.",
-          "esEs": ""
+          "ptBr": "Cave um túnel na parte de trás do tabuleiro do seu oponente.",
+          "esEs": "Excava un túnel hacia la parte trasera del tablero de tu rival."
         }
       },
       "abilities": [
@@ -245,12 +245,12 @@
           "name": {
             "enUs": "Surprise!",
             "ptBr": "Surpresa!",
-            "esEs": ""
+            "esEs": "Sorpresita"
           },
           "description": {
-            "enUs": "Attacks gain Backstab, Backstab: Attacks from behind an enemy deal +1 damage.",
-            "ptBr": "Ataques ganham Punhalada nas costas, Punhalada nas costas: Ataques por trás de um inimigo causam +1 de dano.",
-            "esEs": ""
+            "enUs": "Attacks gain Backstab. Backstab: Attacks from behind an enemy deal +1 damage.",
+            "ptBr": "Ataques ganham Punhalada nas costas. Punhalada nas costas: Ataques por trás de um inimigo causam +1 de dano.",
+            "esEs": "Los ataques adquieren la Habilidad Puñalada por la espalda. Puñalada por la espalda: Los ataques detrás de las unidades enemigas infligen 1 punto más de daño."
           }
         },
         {
@@ -261,13 +261,13 @@
           "ko": false,
           "name": {
             "enUs": "Excitement",
-            "ptBr": "Excitação",
-            "esEs": ""
+            "ptBr": "Entusiasmo",
+            "esEs": "Entusiasmo"
           },
           "description": {
             "enUs": "HUGE speed bonus for a short time, Boast: After defeating an enemy.",
-            "ptBr": "GRANDE bônus de Velocidade por um curto período de tempo, Vangloriar-se: depois de derrotar um inimigo.",
-            "esEs": ""
+            "ptBr": "Grande bônus de Velocidade por um curto período de tempo, Vangloriar-se: depois de derrotar um inimigo.",
+            "esEs": "Gran bonus de velocidad durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -278,13 +278,13 @@
           "ko": false,
           "name": {
             "enUs": "Big Shovel",
-            "ptBr": "Pá Grande",
-            "esEs": ""
+            "ptBr": "Super pá",
+            "esEs": "Superpala"
           },
           "description": {
-            "enUs": "Attacks gain Cleave, Cleave: Attacks hit all enemies in front arc.",
-            "ptBr": "Ataques ganham Rachar, Rachar: Os ataques atingem todos os inimigos no arco frontal.",
-            "esEs": ""
+            "enUs": "Attacks gain Cleave. Cleave: Attacks hit all enemies in front arc.",
+            "ptBr": "Ataques ganham Rachar. Fenda: Os ataques atingem todos os inimigos no arco frontal.",
+            "esEs": "Los ataques adquieren la Habilidad Hendidura. Hendidura: Los ataques impactan a los enemigos que estén en los laterales del objetivo, infligiéndoles daño de área."
           }
         }
       ],
@@ -320,7 +320,7 @@
       "name": {
         "enUs": "Archer",
         "ptBr": "Arqueira",
-        "esEs": ""
+        "esEs": "Arquera"
       },
       "image": "archer",
       "skill": {
@@ -330,13 +330,13 @@
         "ko": false,
         "name": {
           "enUs": "Long Bow",
-          "ptBr": "Arco Longo",
-          "esEs": ""
+          "ptBr": "Arco a Distância",
+          "esEs": "Arco a Distância"
         },
         "description": {
           "enUs": "Attacks target the furthest enemy.",
           "ptBr": "Os ataques têm como alvo o inimigo mais distante.",
-          "esEs": ""
+          "esEs": "Ataca al enemigo que se encuentre más lejos."
         }
       },
       "abilities": [
@@ -349,12 +349,12 @@
           "name": {
             "enUs": "Archery",
             "ptBr": "Tiro com arco",
-            "esEs": ""
+            "esEs": "Tiro com arco"
           },
           "description": {
             "enUs": "Attacks hit one additional target.",
             "ptBr": "Os ataques atingem um alvo adicional.",
-            "esEs": ""
+            "esEs": "Los ataques impactan a 1 objetivo extra."
           }
         },
         {
@@ -366,12 +366,12 @@
           "name": {
             "enUs": "Pride",
             "ptBr": "Orgulho",
-            "esEs": ""
+            "esEs": "Orgullo"
           },
           "description": {
             "enUs": "+1 ATK for a short time, Boast: After defeating an enemy.",
             "ptBr": "+1 ATK por um curto período de tempo, Vangloriar-se: Depois de derrotar um inimigo.",
-            "esEs": ""
+            "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -382,13 +382,13 @@
           "ko": false,
           "name": {
             "enUs": "Rush",
-            "ptBr": "Pressa",
-            "esEs": ""
+            "ptBr": "Adrenalina",
+            "esEs": "Adrenalina"
           },
           "description": {
             "enUs": "HUGE Speed increase for a short time, Clash: Cast when battle starts.",
-            "ptBr": "GRANDE aumento de Velocidade por um curto período de tempo, Clash: lançado quando a batalha começa.",
-            "esEs": ""
+            "ptBr": "Grande aumento de Velocidade por um curto período de tempo, Clash: lançado quando a batalha começa.",
+            "esEs": "Gran aumento de velocidad durante un tiempo breve. Clash: Se activa al comienzo de la batalla."
           }
         }
       ],
@@ -424,7 +424,7 @@
       "name": {
         "enUs": "Spear Goblin",
         "ptBr": "Goblin Lanceiro",
-        "esEs": ""
+        "esEs": "Duende com Lanza"
       },
       "image": "spear_goblin",
       "skill": {
@@ -435,12 +435,12 @@
         "name": {
           "enUs": "Spear Toss",
           "ptBr": "Arremesso de Lança",
-          "esEs": ""
+          "esEs": "Lanza-Miento"
         },
         "description": {
           "enUs": "Throw a HUGE spear forward, dealing damage on hit.",
-          "ptBr": "Lance uma lança ENORME para frente, causando dano ao acertar.",
-          "esEs": ""
+          "ptBr": "Arremessa uma grande lança para frente, causando dano ao acertar.",
+          "esEs": "Arroja una gran lanza que inflige daño al impactar."
         }
       },
       "abilities": [
@@ -453,12 +453,12 @@
           "name": {
             "enUs": "Strong Arm",
             "ptBr": "Braço Forte",
-            "esEs": ""
+            "esEs": "Brazo Fuerte"
           },
           "description": {
             "enUs": "Spear Toss gains +3 Damage.",
             "ptBr": "Arremesso de lança ganha +3 de Dano.",
-            "esEs": ""
+            "esEs": "La Habilidad Lanza-Miento adquiere 3 puntos de daño extras."
           }
         },
         {
@@ -470,12 +470,12 @@
           "name": {
             "enUs": "Pride",
             "ptBr": "Orgulho",
-            "esEs": ""
+            "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time, Boast: After defeating an enemy.",
-            "ptBr": "+1 ATK por um curto período de tempo, Vangloriar-se: Depois de derrotar um inimigo.",
-            "esEs": ""
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: Depois de derrotar um inimigo.",
+            "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -487,12 +487,12 @@
           "name": {
             "enUs": "Stun Shot",
             "ptBr": "Tiro Atordoante",
-            "esEs": ""
+            "esEs": "Tiro aturdidor"
           },
           "description": {
             "enUs": "Spear Toss stuns the affected enemy for 3s.",
             "ptBr": "Arremesso de lança atordoa o inimigo afetado por 3s.",
-            "esEs": ""
+            "esEs": "La Habilidad Lanza-Miento aturde a su objetivo durante 3 segundos."
           }
         }
       ],
@@ -528,7 +528,7 @@
       "name": {
         "enUs": "Wizard",
         "ptBr": "Mago",
-        "esEs": ""
+        "esEs": "Mago"
       },
       "image": "wizard",
       "skill": {
@@ -539,12 +539,12 @@
         "name": {
           "enUs": "Fireball",
           "ptBr": "Bola de fogo",
-          "esEs": ""
+          "esEs": "Bola de Fuego"
         },
         "description": {
           "enUs": "Throw a fireball that damages enemies in an area.",
-          "ptBr": "Jogue uma bola de fogo que causa dano aos inimigos em uma área.",
-          "esEs": ""
+          "ptBr": "Lança uma bola de fogo que causa dano aos inimigos em uma área.",
+          "esEs": "Lanza una bola de fuego que inflige daño de área."
         }
       },
       "abilities": [
@@ -556,13 +556,13 @@
           "ko": false,
           "name": {
             "enUs": "Expand",
-            "ptBr": "Expandir",
-            "esEs": ""
+            "ptBr": "Expansão",
+            "esEs": "Expansión"
           },
           "description": {
             "enUs": "Fireball impacts a larger area.",
             "ptBr": "A Bola de fogo impacta uma área maior.",
-            "esEs": ""
+            "esEs": "La Habilidad Bola de Fuego impacta en un área mayor."
           }
         },
         {
@@ -573,13 +573,13 @@
           "ko": false,
           "name": {
             "enUs": "Ignite",
-            "ptBr": "Acender",
-            "esEs": ""
+            "ptBr": "Ignição",
+            "esEs": "Ignición"
           },
           "description": {
             "enUs": "Fireball deals 2 bonus damage over 4s.",
             "ptBr": "Bola de fogo causa 2 bônus de dano ao longo de 4s.",
-            "esEs": ""
+            "esEs": "La Habilidad Bola de Fuego inflige 2 puntos de daño extra durante 4 segundos."
           }
         },
         {
@@ -590,13 +590,13 @@
           "ko": false,
           "name": {
             "enUs": "Spicy",
-            "ptBr": "Apimentado",
-            "esEs": ""
+            "ptBr": "Queimando",
+            "esEs": "Ardiente"
           },
           "description": {
             "enUs": "Fireball prevents enemy healing for a short time.",
             "ptBr": "A Bola de fogo impede a cura do inimigo por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "La Habilidad Bola de Fuego evita que los enemigos se curen durante un tiempo breve."
           }
         }
       ],
@@ -632,7 +632,7 @@
       "name": {
         "enUs": "Ice Wizard",
         "ptBr": "Mago de Gelo",
-        "esEs": ""
+        "esEs": "Mago de Hielo"
       },
       "image": "ice_wizard",
       "skill": {
@@ -642,13 +642,13 @@
         "ko": false,
         "name": {
           "enUs": "Frost Bolt",
-          "ptBr": "Parafuso de Gelo",
-          "esEs": ""
+          "ptBr": "Congelando",
+          "esEs": "Congelación"
         },
         "description": {
           "enUs": "Enemies hit become Slow.",
           "ptBr": "Inimigos atingidos tornam-se Lentos.",
-          "esEs": ""
+          "esEs": "Ralentiza el ataque de los rivales."
         }
       },
       "abilities": [
@@ -661,12 +661,12 @@
           "name": {
             "enUs": "Chill",
             "ptBr": "Frio",
-            "esEs": ""
+            "esEs": "Frío"
           },
           "description": {
             "enUs": "Frost Bolt will greatly Slow enemies.",
-            "ptBr": "Parafuso de Gelo irá retardar GRANDEmente os inimigos.",
-            "esEs": ""
+            "ptBr": "Congelando irá retardar enormemente os inimigos.",
+            "esEs": "La Habilidad Congelación ralentiza enormemente a los enemigos. Ralentiza: Reducción de velocidad de movimiento y ataque."
           }
         },
         {
@@ -677,13 +677,13 @@
           "ko": false,
           "name": {
             "enUs": "Blizzard",
-            "ptBr": "Nevasca",
-            "esEs": ""
+            "ptBr": "Tempestade de Neve",
+            "esEs": "Tormenta de Nieve"
           },
           "description": {
             "enUs": "Frost Bolt hits all nearby enemies.",
-            "ptBr": "Parafuso de Gelo atinge todos os inimigos próximos.",
-            "esEs": ""
+            "ptBr": "Congelando atinge todos os inimigos próximos.",
+            "esEs": "La Habilidad Congelación impacta a todos los enemigos cercanos."
           }
         },
         {
@@ -695,12 +695,12 @@
           "name": {
             "enUs": "Ice Bomb",
             "ptBr": "Bomba de Gelo",
-            "esEs": ""
+            "esEs": "Bomba de Hielo"
           },
           "description": {
             "enUs": "Freeze nearby enemies for a short time.",
             "ptBr": "Congele os inimigos próximos por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Congela a los enemigos cercanos durante un tiempo breve. Daño Mortal: Se activa cuando este mini es derrotado."
           }
         }
       ],
@@ -736,7 +736,7 @@
       "name": {
         "enUs": "Giant Skeleton",
         "ptBr": "Esqueleto Gigante",
-        "esEs": ""
+        "esEs": "Esqueleto Gigante"
       },
       "image": "giant_skeleton",
       "skill": {
@@ -747,12 +747,12 @@
         "name": {
           "enUs": "Boooom!!!",
           "ptBr": "Boooom!!!",
-          "esEs": ""
+          "esEs": "¡Boom!"
         },
         "description": {
           "enUs": "Drop a bomb that deals 3 damage in an area.",
           "ptBr": "Jogue uma bomba que causa 3 de dano em uma área.",
-          "esEs": ""
+          "esEs": "Tira una bomba que inflige 3 puntos de daño de área y aturde al enemigo brevemente."
         }
       },
       "abilities": [
@@ -765,12 +765,12 @@
           "name": {
             "enUs": "Bigger Booom",
             "ptBr": "Grande Bomba",
-            "esEs": ""
+            "esEs": "Bombazo"
           },
           "description": {
             "enUs": "Boooom!!! +2 Damage.",
             "ptBr": "Boooom!!! +2 de Dano.",
-            "esEs": ""
+            "esEs": "La Habilidad ¡Boom! inflige 2 puntos de daño extras."
           }
         },
         {
@@ -782,12 +782,12 @@
           "name": {
             "enUs": "Blast Radius",
             "ptBr": "Onda Expansiva",
-            "esEs": ""
+            "esEs": "Onda Expansiva"
           },
           "description": {
             "enUs": "Boooom!!! affects a larger area.",
             "ptBr": "Boooom!!! afeta uma área maior.",
-            "esEs": ""
+            "esEs": "La Habilidad ¡Boom! afecta a un área mayor."
           }
         },
         {
@@ -799,12 +799,12 @@
           "name": {
             "enUs": "Flashbang",
             "ptBr": "Bomba de Atordoamento",
-            "esEs": ""
+            "esEs": "Bomba aturdidora"
           },
           "description": {
             "enUs": "Boooom!!! stun duration increased by 1.5.",
             "ptBr": "Boooom!!! duração do atordoamento aumentada em 1.5.",
-            "esEs": ""
+            "esEs": "La duración del aturdimento de ¡Boom! dura 1.5 segundos más."
           }
         }
       ],
@@ -840,7 +840,7 @@
       "name": {
         "enUs": "Lumberjack",
         "ptBr": "Lenhador",
-        "esEs": ""
+        "esEs": "Leñador"
       },
       "image": "lumberjack",
       "skill": {
@@ -850,13 +850,13 @@
         "ko": false,
         "name": {
           "enUs": "Rage Potion",
-          "ptBr": "Poção de Raiva",
-          "esEs": ""
+          "ptBr": "Poção de Fúria",
+          "esEs": "Poción de Furia"
         },
         "description": {
           "enUs": "Toss a potion to the closest ally that increases their speed.",
           "ptBr": "Jogue uma poção para o aliado mais próximo para aumentar sua velocidade.",
-          "esEs": ""
+          "esEs": "Arroja una poción al aliado más cercano que aumenta su velocidad"
         }
       },
       "abilities": [
@@ -868,13 +868,13 @@
           "ko": false,
           "name": {
             "enUs": "Splash",
-            "ptBr": "Respingo",
-            "esEs": ""
+            "ptBr": "Espirrar",
+            "esEs": "Salpicadura"
           },
           "description": {
             "enUs": "Rage Potion affects larger area.",
-            "ptBr": "Poção de Raiva afeta uma área maior.",
-            "esEs": ""
+            "ptBr": "Poção de Fúria afeta uma área maior.",
+            "esEs": "La Habilidad Poción de Furia afecta a una área mayor."
           }
         },
         {
@@ -885,13 +885,13 @@
           "ko": false,
           "name": {
             "enUs": "Potent",
-            "ptBr": "Potente",
-            "esEs": ""
+            "ptBr": "Potência",
+            "esEs": "Potencia"
           },
           "description": {
             "enUs": "Rage Potion lasts much longer.",
-            "ptBr": "Poção de Raiva dura muito mais tempo.",
-            "esEs": ""
+            "ptBr": "Poção de Fúria dura muito mais tempo.",
+            "esEs": "La Habilidad Poción de Furia dura mucho más tiempo"
           }
         },
         {
@@ -902,13 +902,13 @@
           "ko": false,
           "name": {
             "enUs": "Quick Sip",
-            "ptBr": "Gole Rápido",
-            "esEs": ""
+            "ptBr": "Trago",
+            "esEs": "Sorbito"
           },
           "description": {
             "enUs": "Cast Rage Potion.",
             "ptBr": "Poção de Raiva Lançada.",
-            "esEs": ""
+            "esEs": "Activa la Habilidade Poción de Furia. Clash: Se activa al comienzo de la batalha."
           }
         }
       ],
@@ -944,7 +944,7 @@
       "name": {
         "enUs": "Mini P.E.K.K.A",
         "ptBr": "Mini P.E.K.K.A",
-        "esEs": ""
+        "esEs": "Mini P.E.K.K.A"
       },
       "image": "mini_pekka",
       "skill": {
@@ -955,12 +955,12 @@
         "name": {
           "enUs": "Shining Blade",
           "ptBr": "Lâmina Brilhante",
-          "esEs": ""
+          "esEs": "Sable Reluciente"
         },
         "description": {
           "enUs": "Attacks have a small chance to deal 2x damage.",
           "ptBr": "Ataques têm uma pequena chance de causar 2x o dano.",
-          "esEs": ""
+          "esEs": "Los ataques tiene una probabilidad pequeña de infligir el doble de daño."
         }
       },
       "abilities": [
@@ -973,12 +973,12 @@
           "name": {
             "enUs": "Hack Hack",
             "ptBr": "Retalhar",
-            "esEs": ""
+            "esEs": "Sablazo"
           },
           "description": {
             "enUs": "Shining Blade chance to trigger is doubled.",
             "ptBr": "A chance de acionar a Lâmina Brilhante é dobrada.",
-            "esEs": ""
+            "esEs": "Duplica la posibilidad de activar el Sable Reluciente."
           }
         },
         {
@@ -990,12 +990,12 @@
           "name": {
             "enUs": "Drain",
             "ptBr": "Drenar",
-            "esEs": ""
+            "esEs": "Drenaje"
           },
           "description": {
             "enUs": "Attacks gain 2 Dissipate.",
             "ptBr": "Ataques ganham 2 de Dissipar.",
-            "esEs": ""
+            "esEs": "Los ataques adquieren 2 unidades de Disipación. Disipación: Tu rival pierde energia cuando recibe el impacto."
           }
         },
         {
@@ -1007,12 +1007,12 @@
           "name": {
             "enUs": "Pride",
             "ptBr": "Orgulho",
-            "esEs": ""
+            "esEs": "Orgullo"
           },
           "description": {
             "enUs": "+1 ATK for a short time.",
             "ptBr": "+1 ATK por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
       ],
@@ -1048,7 +1048,7 @@
       "name": {
         "enUs": "Dart Goblin",
         "ptBr": "Goblin de Dardo",
-        "esEs": ""
+        "esEs": "Duende Lanzadardos"
       },
       "image": "dart_goblin",
       "skill": {
@@ -1059,12 +1059,12 @@
         "name": {
           "enUs": "Dart Master",
           "ptBr": "Mestre de Dardo",
-          "esEs": ""
+          "esEs": "Maestro de los dardos"
         },
         "description": {
           "enUs": "Each attack increases attack speed, stacking up to 10 times.",
           "ptBr": "Cada ataque aumenta a velocidade de ataque, acumulando até 10 vezes.",
-          "esEs": ""
+          "esEs": "La velocidad de ataque aumenta com cada ataque. Puedes acumularia 10 veces."
         }
       },
       "abilities": [
@@ -1077,12 +1077,12 @@
           "name": {
             "enUs": "Rhythm",
             "ptBr": "Ritmo",
-            "esEs": ""
+            "esEs": "Ritmo"
           },
           "description": {
             "enUs": "Dart Master bonus can stack infinitely.",
             "ptBr": "O bônus do Mestre de Dardo pode acumular infinitamente.",
-            "esEs": ""
+            "esEs": "Permite acumular la Habilidade Maestro de los dardos infinitamente."
           }
         },
         {
@@ -1094,12 +1094,12 @@
           "name": {
             "enUs": "Stun Shot",
             "ptBr": "Tiro Atordoante",
-            "esEs": ""
+            "esEs": "Tiro Aturdidor"
           },
           "description": {
             "enUs": "Attack has a small chance to stun.",
             "ptBr": "O Ataque tem uma pequena chance de atordoar.",
-            "esEs": ""
+            "esEs": "El ataque tiene una posibilidad pequeña de aturdir."
           }
         },
         {
@@ -1111,12 +1111,12 @@
           "name": {
             "enUs": "Pride",
             "ptBr": "Orgulho",
-            "esEs": ""
+            "esEs": "Orgullo"
           },
           "description": {
             "enUs": "+1 ATK for a short time.",
             "ptBr": "+1 ATK por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
       ],
@@ -1152,7 +1152,7 @@
       "name": {
         "enUs": "Bowler",
         "ptBr": "Lançador",
-        "esEs": ""
+        "esEs": "Lanzarrocas"
       },
       "image": "bowler",
       "skill": {
@@ -1163,12 +1163,12 @@
         "name": {
           "enUs": "Strrrike!!!",
           "ptBr": "Strrrike!!!",
-          "esEs": ""
+          "esEs": "¡Strike!"
         },
         "description": {
           "enUs": "Roll a giant rock straight ahead, damaging, stunning and knocking back any enemies hit.",
-          "ptBr": "Role uma pedra gigante para frente, causando dano, atordoamento e repelindo todos os inimigos atingidos.",
-          "esEs": ""
+          "ptBr": "Lança uma pedra gigante para frente, causando dano, atordoamento e repelindo todos os inimigos atingidos.",
+          "esEs": "Lanza una roca que inflige daño, aturde y empuja a los enemigos en sua camino."
         }
       },
       "abilities": [
@@ -1180,13 +1180,13 @@
           "ko": false,
           "name": {
             "enUs": "On a Roll",
-            "ptBr": "Rolando",
-            "esEs": ""
+            "ptBr": "Em Sequência",
+            "esEs": "En Racha"
           },
           "description": {
             "enUs": "Strrrike!!! becomes a Super ability also.",
             "ptBr": "Strrrike!!! torna-se uma super habilidade também.",
-            "esEs": ""
+            "esEs": "La Habilidad ¡Strike! también se convierte en Súper."
           }
         },
         {
@@ -1197,13 +1197,13 @@
           "ko": false,
           "name": {
             "enUs": "Crushing",
-            "ptBr": "Esmagamento",
-            "esEs": ""
+            "ptBr": "Impacto",
+            "esEs": "Impacto"
           },
           "description": {
             "enUs": "Strrrike!!! +2s stun duration.",
             "ptBr": "Strrrike!!! +2s duração de atordoamento.",
-            "esEs": ""
+            "esEs": "La Habilidad ¡Strike! aturde durante 2 segundos más."
           }
         },
         {
@@ -1214,13 +1214,13 @@
           "ko": false,
           "name": {
             "enUs": "Damage Amplify",
-            "ptBr": "Amplificar de Dano",
-            "esEs": ""
+            "ptBr": "Dano Amplificado",
+            "esEs": "Daño Amplificado"
           },
           "description": {
             "enUs": "Strrrike!!! +2 Damage.",
             "ptBr": "Strrrike!!! +2 de Dano.",
-            "esEs": ""
+            "esEs": "La Habilidad ¡Strike! inflige 2 puntos de daño extras."
           }
         }
       ],
@@ -1255,8 +1255,8 @@
       "id": 13,
       "name": {
         "enUs": "Healing Ranger",
-        "ptBr": "Curadora de Lança",
-        "esEs": ""
+        "ptBr": "Curadora com Lança",
+        "esEs": "Curandera com Lanza"
       },
       "image": "healing_ranger",
       "skill": {
@@ -1267,12 +1267,12 @@
         "name": {
           "enUs": "Healing Spear",
           "ptBr": "Lança de Cura",
-          "esEs": ""
+          "esEs": "Lanza Curativa"
         },
         "description": {
           "enUs": "Throw a magic spear that heals allies in its path for 4 HP.",
           "ptBr": "Jogue uma lança mágica que cura aliados em seu caminho por 4 HP.",
-          "esEs": ""
+          "esEs": "Arroja una lanza al aliado más lejano y regenera 4 puntos de vida a los aliados en su camino."
         }
       },
       "abilities": [
@@ -1285,12 +1285,12 @@
           "name": {
             "enUs": "Strong Dose",
             "ptBr": "Dose Forte",
-            "esEs": ""
+            "esEs": "Dosis Fuerte"
           },
           "description": {
             "enUs": "Healing Spear +2 heal amount.",
             "ptBr": "Lança de Cura aumentada em +2 de cura.",
-            "esEs": ""
+            "esEs": "La Habilidad Lanza Curativa regenera 2 punto de vida más."
           }
         },
         {
@@ -1302,12 +1302,12 @@
           "name": {
             "enUs": "Extra Dose",
             "ptBr": "Dose Extra",
-            "esEs": ""
+            "esEs": "Dosis extra"
           },
           "description": {
             "enUs": "Healing Spear affects a wider area.",
             "ptBr": "Lança de Cura afeta uma área mais ampla.",
-            "esEs": ""
+            "esEs": "La Habilidad Lanza Curativa afecta a un área más extensa."
           }
         },
         {
@@ -1318,13 +1318,13 @@
           "ko": false,
           "name": {
             "enUs": "Inspire",
-            "ptBr": "Inspirar",
-            "esEs": ""
+            "ptBr": "Respiração",
+            "esEs": "Aliento"
           },
           "description": {
             "enUs": "Healing Spear increases allies' speed for a short time.",
             "ptBr": "Lança de Cura aumenta a velocidade dos aliados por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "La Habilidad Lanza Curativa aumenta la velocidad de los aliados durante un tiempo breve."
           }
         }
       ],
@@ -1360,7 +1360,7 @@
       "name": {
         "enUs": "P.E.K.K.A",
         "ptBr": "P.E.K.K.A",
-        "esEs": ""
+        "esEs": "P.E.K.K.A"
       },
       "image": "pekka",
       "skill": {
@@ -1371,12 +1371,12 @@
         "name": {
           "enUs": "Heavy Blade",
           "ptBr": "Lâmina Pesada",
-          "esEs": ""
+          "esEs": "Sable Pesado"
         },
         "description": {
           "enUs": "Attacks have a small chance to deal 2x damage.",
           "ptBr": "Ataques têm uma pequena chance de causar 2x de dano.",
-          "esEs": ""
+          "esEs": "Los ataques tiene una probabilidad pequeña de infligir el doble de daño."
         }
       },
       "abilities": [
@@ -1388,13 +1388,13 @@
           "ko": false,
           "name": {
             "enUs": "Humble",
-            "ptBr": "Humilde",
-            "esEs": ""
+            "ptBr": "Modéstia",
+            "esEs": "Modestia"
           },
           "description": {
             "enUs": "Heavy Blade bonus damage increased to 3x.",
             "ptBr": "Lâmina Pesada bônus de dano aumentado para 3x.",
-            "esEs": ""
+            "esEs": "Triplica el daño extra sel Sable Pesado."
           }
         },
         {
@@ -1406,12 +1406,12 @@
           "name": {
             "enUs": "Armor",
             "ptBr": "Armadura",
-            "esEs": ""
+            "esEs": "Armadura"
           },
           "description": {
             "enUs": "Gain Block for a short time.",
             "ptBr": "Ganho de Bloqueio por um curto período de tempo.",
-            "esEs": ""
+            "esEs": "Adquiere la Habilidad Bloqueo durante un tiempo breve. Clash: Se activa al comienzo de la batalla. Bloqueo: Reduce 1 punto el daño recebido."
           }
         },
         {
@@ -1422,13 +1422,13 @@
           "ko": false,
           "name": {
             "enUs": "Breaker",
-            "ptBr": "Disjuntor",
-            "esEs": ""
+            "ptBr": "Quebra-escudos",
+            "esEs": "Rompeescudos"
           },
           "description": {
             "enUs": "Heal 6HP over 3s.",
             "ptBr": "Cure 6HP ao longo de 3s.",
-            "esEs": ""
+            "esEs": "Regera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
       ],
@@ -1464,7 +1464,7 @@
       "name": {
         "enUs": "Valkyrie",
         "ptBr": "Valquíria",
-        "esEs": ""
+        "esEs": "Valquiria"
       },
       "image": "valkyrie",
       "skill": {
@@ -1474,13 +1474,13 @@
         "ko": false,
         "name": {
           "enUs": "Axestorm",
-          "ptBr": "Tempestade de Machado",
-          "esEs": ""
+          "ptBr": "Golpe Cortante",
+          "esEs": "Hachazos"
         },
         "description": {
           "enUs": "Spinning attack that damages surrounding enemies.",
           "ptBr": "Ataque giratório que danifica os inimigos ao redor.",
-          "esEs": ""
+          "esEs": "Ataca con un torbellino que inflige daño a los enemigos que se encuentren a sua alrededor."
         }
       },
       "abilities": [
@@ -1493,12 +1493,12 @@
           "name": {
             "enUs": "Frenzy",
             "ptBr": "Frenesi",
-            "esEs": ""
+            "esEs": "Frenesí"
           },
           "description": {
             "enUs": "Hitting enemies increases speed. Can stack 10 times.",
             "ptBr": "Atingir os inimigos aumenta a velocidade. Pode empilhar até 10 vezes.",
-            "esEs": ""
+            "esEs": "La velocidad aumenta al impactar a los enemigos. Puedes acumularia 10 veces."
           }
         },
         {
@@ -1509,13 +1509,13 @@
           "ko": false,
           "name": {
             "enUs": "Humble",
-            "ptBr": "Humilde",
-            "esEs": ""
+            "ptBr": "Modéstia",
+            "esEs": "Modestia"
           },
           "description": {
             "enUs": "Heal 6HP over 3s.",
             "ptBr": "Cure 6HP ao longo de 3s.",
-            "esEs": ""
+            "esEs": "Regenera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -1526,13 +1526,13 @@
           "ko": false,
           "name": {
             "enUs": "Rush",
-            "ptBr": "Pressa",
-            "esEs": ""
+            "ptBr": "Adrenalina",
+            "esEs": "Adrenalina"
           },
           "description": {
             "enUs": "HUGE Speed increase for a short time.",
-            "ptBr": "GRANDE aumento de Velocidade por um curto período de tempo.",
-            "esEs": ""
+            "ptBr": "Grande aumento de Velocidade por um curto período de tempo.",
+            "esEs": "Gran aumento de velocidad durante un tiempo breve. Clash: Se activa al comienzo de la batalla."
           }
         }
       ],
@@ -1568,7 +1568,7 @@
       "name": {
         "enUs": "Magic Archer",
         "ptBr": "Arqueiro Mágico",
-        "esEs": ""
+        "esEs": "Arquero Mágico"
       },
       "image": "magic_archer",
       "skill": {
@@ -1579,12 +1579,12 @@
         "name": {
           "enUs": "Magic Arrow",
           "ptBr": "Flecha Mágica",
-          "esEs": ""
+          "esEs": "Flecha Mágica"
         },
         "description": {
           "enUs": "Attacks have Pierce.",
           "ptBr": "Ataques Perfuraram.",
-          "esEs": ""
+          "esEs": "Los ataques adquieren la Habilidad Perforación."
         }
       },
       "abilities": [
@@ -1597,12 +1597,12 @@
           "name": {
             "enUs": "Steel Tips",
             "ptBr": "Pontas de Aço",
-            "esEs": ""
+            "esEs": "Puntas de Acero"
           },
           "description": {
             "enUs": "Magic Arrow +1 Damage.",
             "ptBr": "Flecha Mágica +1 de Dano.",
-            "esEs": ""
+            "esEs": "La Flecha Mágica inflige 1 punto de daño más."
           }
         },
         {
@@ -1614,12 +1614,12 @@
           "name": {
             "enUs": "Drain",
             "ptBr": "Drenar",
-            "esEs": ""
+            "esEs": "Drenaje"
           },
           "description": {
             "enUs": "Magic Arrow gains 2 Dissipate.",
             "ptBr": "Flecha Mágica ganha 2 de Dissipar.",
-            "esEs": ""
+            "esEs": "La Flecha Mágica adquiere 2 unidade de Disipación."
           }
         },
         {
@@ -1629,14 +1629,14 @@
           "boast": false,
           "ko": false,
           "name": {
-            "enUs": "Quebrar",
-            "ptBr": "Shatter",
-            "esEs": ""
+            "enUs": "Shatter",
+            "ptBr": "Pedacinhos",
+            "esEs": "Añicos"
           },
           "description": {
             "enUs": "Magic Arrow gains Breaker.",
-            "ptBr": "Flecha Mágica ganha Disjuntor.",
-            "esEs": ""
+            "ptBr": "Flecha Mágica ganha Quebra-escudos.",
+            "esEs": "La Flecha Mágica adquiere la Habilidad Rompeescudos. Rompeescudos: Inflige el triple de daño a los Escudos."
           }
         }
       ],
@@ -1672,7 +1672,7 @@
       "name": {
         "enUs": "Battle Healer",
         "ptBr": "Curadora Guerreira",
-        "esEs": ""
+        "esEs": "Curandera Guerrera"
       },
       "image": "battle_healer",
       "skill": {
@@ -1683,12 +1683,12 @@
         "name": {
           "enUs": "First Aid",
           "ptBr": "Primeiros Socorros",
-          "esEs": ""
+          "esEs": "Primeros auxilios"
         },
         "description": {
           "enUs": "Heal nearby allies for 6 HP.",
           "ptBr": "Cure aliados próximos por 6 HP.",
-          "esEs": ""
+          "esEs": "Regenera 6 puntos de vida a los aliados cercanos."
         }
       },
       "abilities": [
@@ -1701,12 +1701,12 @@
           "name": {
             "enUs": "Triage",
             "ptBr": "Triagem",
-            "esEs": ""
+            "esEs": "Triaje"
           },
           "description": {
             "enUs": "First Aid +4 Heal amount.",
             "ptBr": "Primeiros Socorros aumentada em +4 de cura.",
-            "esEs": ""
+            "esEs": "Primeros auxilios adquiere 4 puntos de curación."
           }
         },
         {
@@ -1718,12 +1718,12 @@
           "name": {
             "enUs": "Aura",
             "ptBr": "Aura",
-            "esEs": ""
+            "esEs": "Aura"
           },
           "description": {
             "enUs": "First Aid affects larger area.",
             "ptBr": "Primeiros Socorros afetam uma área maior.",
-            "esEs": ""
+            "esEs": "La Habilidad Primeros auxilios afecta a un área mayor."
           }
         },
         {
@@ -1735,12 +1735,12 @@
           "name": {
             "enUs": "Cheer",
             "ptBr": "Alegrar",
-            "esEs": ""
+            "esEs": "Ánimos"
           },
           "description": {
             "enUs": "Allies receiving First Aid gain 1 Energy.",
             "ptBr": "Aliados que recebem Primeiros Socorros ganham 1 de Energia.",
-            "esEs": ""
+            "esEs": "Los aliados que reciban Primeros auxilios ganan 1 punto de Energía."
           }
         }
       ],
@@ -1776,7 +1776,7 @@
       "name": {
         "enUs": "Mega Knight",
         "ptBr": "Mega Cavaleiro",
-        "esEs": ""
+        "esEs": "Megacaballero"
       },
       "image": "mega_knight",
       "skill": {
@@ -1786,13 +1786,13 @@
         "ko": false,
         "name": {
           "enUs": "Skyfall",
-          "ptBr": "Queda do céu",
-          "esEs": ""
+          "ptBr": "Aterrissagem",
+          "esEs": "Aterrizaje"
         },
         "description": {
           "enUs": "Stomp the ground to damage and stun nearby enemies.",
-          "ptBr": "Pise no chão para causar dano e atordoar os inimigos próximos.",
-          "esEs": ""
+          "ptBr": "Pise no tabuleiro para causar dano e atordoar os inimigos próximos.",
+          "esEs": "Da un golpe en el tablero que inflige daño y aturde a los enemigos cercanos."
         }
       },
       "abilities": [
@@ -1805,12 +1805,12 @@
           "name": {
             "enUs": "SLAM",
             "ptBr": "Batida",
-            "esEs": ""
+            "esEs": "Golpetazo"
           },
           "description": {
             "enUs": "Skyfall +2s Stun Duration.",
-            "ptBr": "Queda do céu + 2s de duração do atordoamento.",
-            "esEs": ""
+            "ptBr": "Aterrissagem + 2s de duração do atordoamento.",
+            "esEs": "La Habilidad Aterrizaje aturde a los enemigos durante 2 segundos más."
           }
         },
         {
@@ -1822,12 +1822,12 @@
           "name": {
             "enUs": "Earthquake",
             "ptBr": "Terremoto",
-            "esEs": ""
+            "esEs": "Terremoto"
           },
           "description": {
             "enUs": "Skyfall affects a larger area.",
-            "ptBr": "Queda do céu afeta uma área maior.",
-            "esEs": ""
+            "ptBr": "Aterrissagem afeta uma área maior.",
+            "esEs": "La Habilidad Aterrizaje afecta a una área mayor."
           }
         },
         {
@@ -1839,12 +1839,12 @@
           "name": {
             "enUs": "Shockwave",
             "ptBr": "Onda de choque",
-            "esEs": ""
+            "esEs": "Onda de choque"
           },
           "description": {
             "enUs": "Attacks push back enemies.",
             "ptBr": "Ataques empurram os inimigos para trás.",
-            "esEs": ""
+            "esEs": "Los ataques empujan a los enemigos."
           }
         }
       ],
@@ -1880,7 +1880,7 @@
       "name": {
         "enUs": "Electro Wizard",
         "ptBr": "Mago Elétrico",
-        "esEs": ""
+        "esEs": "Mago Eléctrico"
       },
       "image": "electro_wizard",
       "skill": {
@@ -1891,12 +1891,12 @@
         "name": {
           "enUs": "Zzzap",
           "ptBr": "Descarga",
-          "esEs": ""
+          "esEs": "Descarga"
         },
         "description": {
           "enUs": "Damage and stun 2 enemies.",
           "ptBr": "Danificar e atordoar 2 inimigos.",
-          "esEs": ""
+          "esEs": "Inflige daño y aturde a 2 rivales."
         }
       },
       "abilities": [
@@ -1909,12 +1909,12 @@
           "name": {
             "enUs": "Fork",
             "ptBr": "Bifurcação",
-            "esEs": ""
+            "esEs": "Bifurcación"
           },
           "description": {
             "enUs": "Zzzap strikes up to 3 enemies.",
             "ptBr": "Descarga atinge até 3 inimigos.",
-            "esEs": ""
+            "esEs": "La Descarga electrocuta a hasta 3 unidades enemigas."
           }
         },
         {
@@ -1926,12 +1926,12 @@
           "name": {
             "enUs": "Drain",
             "ptBr": "Drenar",
-            "esEs": ""
+            "esEs": "Drenaje"
           },
           "description": {
             "enUs": "Zzzap gains 4 Dissipate.",
             "ptBr": "Descarga ganha 4 de Dissipar.",
-            "esEs": ""
+            "esEs": "La Descarga adquiere 4 unidades de Disipación. Disipación: Tu rival pierde energía cuando recibe el impacto."
           }
         },
         {
@@ -1943,12 +1943,12 @@
           "name": {
             "enUs": "Electrocute",
             "ptBr": "Eletrocussão",
-            "esEs": ""
+            "esEs": "Electrocución"
           },
           "description": {
             "enUs": "Zzzap +2s Stun Duration.",
             "ptBr": "Descarga +2s de duração do atordoamento.",
-            "esEs": ""
+            "esEs": "La Descarga aturde a los enemigos durante 2 segundos más."
           }
         }
       ],
@@ -1984,7 +1984,7 @@
       "name": {
         "enUs": "Skeleton Guard",
         "ptBr": "Guarda Esqueleto",
-        "esEs": ""
+        "esEs": "Guardia Esqueleto"
       },
       "image": "skeleton_guard",
       "skill": {
@@ -1994,13 +1994,13 @@
         "ko": false,
         "name": {
           "enUs": "Shield-up!",
-          "ptBr": "Escudo!",
-          "esEs": ""
+          "ptBr": "Proteção!",
+          "esEs": "¡Protección!"
         },
         "description": {
           "enUs": "Gain 6 Shield for a short time.",
           "ptBr": "Ganhe 6 Escudos por um curto período de tempo.",
-          "esEs": ""
+          "esEs": "Adquiere un Escudo de 6 puntos durante un tiempo breve."
         }
       },
       "abilities": [
@@ -2013,12 +2013,12 @@
           "name": {
             "enUs": "Iron Shield",
             "ptBr": "Escudo de Ferro",
-            "esEs": ""
+            "esEs": "Escudo de Hierro"
           },
           "description": {
             "enUs": "Shield-up! +6 Shield amount.",
-            "ptBr": "Escudo! aumentada em +6 de escudo.",
-            "esEs": ""
+            "ptBr": "Proteção! aumentada em +6 de escudo.",
+            "esEs": "El Escudo de la Habilidad ¡Protección! aumenta 6 puntos de vida."
           }
         },
         {
@@ -2030,12 +2030,12 @@
           "name": {
             "enUs": "Growth",
             "ptBr": "Crescimento",
-            "esEs": ""
+            "esEs": "Crescimento"
           },
           "description": {
             "enUs": "HUGE speed increase while Shield-up! is active.",
-            "ptBr": "GRANDE aumento de velocidade enquanto Escudo está ativo.",
-            "esEs": ""
+            "ptBr": "Grande aumento de velocidade enquanto Escudo está ativo.",
+            "esEs": "Gran aumento de velocidad cuando la Habilidad ¡Protección! está activa."
           }
         },
         {
@@ -2047,12 +2047,12 @@
           "name": {
             "enUs": "Quick Action",
             "ptBr": "Ação Rápida",
-            "esEs": ""
+            "esEs": "Acción Rápida"
           },
           "description": {
             "enUs": "Cast Shield-up!",
-            "ptBr": "Escudo! Lançado",
-            "esEs": ""
+            "ptBr": "Proteção! é ativada.",
+            "esEs": "Activa la Habilidade ¡Protección!. Clash: Se activa al comienzo de la batalla."
           }
         }
       ],
@@ -2088,7 +2088,7 @@
       "name": {
         "enUs": "Prince",
         "ptBr": "Príncipe",
-        "esEs": ""
+        "esEs": "Príncipe"
       },
       "image": "prince",
       "skill": {
@@ -2098,13 +2098,13 @@
         "ko": false,
         "name": {
           "enUs": "Charge!!!",
-          "ptBr": "Avançar!!!",
-          "esEs": ""
+          "ptBr": "Em frente!!!",
+          "esEs": "¡A la carga!"
         },
         "description": {
           "enUs": "Charge forward dealing damage and pushing back enemy on hit.",
           "ptBr": "Avance, causando dano e empurrando o inimigo para trás ao acertar.",
-          "esEs": ""
+          "esEs": "Carga hacia delante, inflige dano y empuja a los enemigos al impactar."
         }
       },
       "abilities": [
@@ -2117,12 +2117,12 @@
           "name": {
             "enUs": "Long Lance",
             "ptBr": "Lança Longa",
-            "esEs": ""
+            "esEs": "Lanza Larga"
           },
           "description": {
             "enUs": "Charge!!! gains +5 damage.",
-            "ptBr": "Avançar!!! ganha +5 de dano.",
-            "esEs": ""
+            "ptBr": "Em frente!!! ganha +5 de dano.",
+            "esEs": "La Habilidad ¡A la carga! inflige 5 puntos de daño extras."
           }
         },
         {
@@ -2133,13 +2133,13 @@
           "ko": false,
           "name": {
             "enUs": "Excitement",
-            "ptBr": "Excitação",
-            "esEs": ""
+            "ptBr": "Entusiasmo",
+            "esEs": "Entusiasmo"
           },
           "description": {
             "enUs": "HUGE speed bonus for 6s, After defeating an enemy.",
-            "ptBr": "GRANDE bônus de velocidade por 6s, Depois de derrotar um inimigo.",
-            "esEs": ""
+            "ptBr": "Grande bônus de velocidade por 6s, Depois de derrotar um inimigo.",
+            "esEs": "Gran bonus de velocidad durante 6 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -2150,13 +2150,13 @@
           "ko": true,
           "name": {
             "enUs": "True Friend",
-            "ptBr": "Amigo Verdadeiro",
-            "esEs": ""
+            "ptBr": "Fiel Corcel",
+            "esEs": "Corcel Fiel"
           },
           "description": {
             "enUs": "Your old pal, Pony fights on!!, After this mini is defeated.",
-            "ptBr": "Seu velho amigo, Pony continua lutando !!, Após este mini ser derrotado.",
-            "esEs": ""
+            "ptBr": "Seu fiel amigo, Pónei continua lutando !!, Após este mini ser derrotado.",
+            "esEs": "Tu fiel poni sigue luchando. Daño Mortal: Se activa cuando este mini es derrotado."
           }
         }
       ],
@@ -2192,7 +2192,7 @@
       "name": {
         "enUs": "Musketeer",
         "ptBr": "Mosqueteira",
-        "esEs": ""
+        "esEs": "Mosquetera"
       },
       "image": "musketeer",
       "skill": {
@@ -2202,13 +2202,13 @@
         "ko": false,
         "name": {
           "enUs": "Snipe",
-          "ptBr": "Snipe",
-          "esEs": ""
+          "ptBr": "Disparo",
+          "esEs": "Disparo"
         },
         "description": {
           "enUs": "Stun, push back and deal damage to target.",
           "ptBr": "Atordoar, empurrar para trás e causar dano ao alvo.",
-          "esEs": ""
+          "esEs": "Aturde, empuja e inflige daño al objetivo."
         }
       },
       "abilities": [
@@ -2221,12 +2221,12 @@
           "name": {
             "enUs": "Stun Shot",
             "ptBr": "Tiro Atordoante",
-            "esEs": ""
+            "esEs": "Tiro Aturdidor"
           },
           "description": {
             "enUs": "Snipe +2.5s Stun Duration.",
-            "ptBr": "Snipe + 2.5s de Duração de Atordoamento.",
-            "esEs": ""
+            "ptBr": "Disparo + 2.5s de Duração de Atordoamento.",
+            "esEs": "La Habilidad Disparo aturde a los enemigos durante 2.5 segundos más."
           }
         },
         {
@@ -2237,13 +2237,13 @@
           "ko": false,
           "name": {
             "enUs": "Humble",
-            "ptBr": "Humilde",
-            "esEs": ""
+            "ptBr": "Modéstia",
+            "esEs": "Modestia"
           },
           "description": {
             "enUs": "Heal 6HP over 3s, After defeating an enemy.",
             "ptBr": "Cure 6HP ao longo de 3s, Após derrotar um inimigo.",
-            "esEs": ""
+            "esEs": "Regenera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
         {
@@ -2254,13 +2254,13 @@
           "ko": true,
           "name": {
             "enUs": "2-for-1",
-            "ptBr": "2-por-1",
-            "esEs": ""
+            "ptBr": "2 por 1",
+            "esEs": "2 por 1"
           },
           "description": {
             "enUs": "Snipe Hits 1 extra target.",
-            "ptBr": "Snipe acerta 1 alvo extra.",
-            "esEs": ""
+            "ptBr": "Disparo acerta 1 alvo extra.",
+            "esEs": "La Habilidad Disparo impacta a 1 objetivo extra."
           }
         }
       ],
@@ -3217,7 +3217,7 @@
       "date": "2021/12/20",
       "description": {
         "enUs": "a.New\n\ni. Say Hello to the new minis: Musketeer and Prince! Obtainable via special quests and shop.\nii. Clashmas event quests with a special 'Candy Elf' Spear Goblin skin reward are here! Jump in and start your Clashmas journey.\niii. Deck slots are here! Save up to 3 preferred mini decks.\niv. Mini Rooms! Invite your friends with a unique code and play together for fun and practice in both Duel and Rumble. Mini Rooms do not count toward completing Quests or toward Ranked play.\nv. Say goodbye to Challenge Coins, and hello to Crystal Coins - a special currency that you use for special Skins in the shop! Crystal Coins can be obtained from extra Hero and Mini fragments once Heroes and Minis are at maximum level/star level.\nvi. Since the Challenge Coins are gone, anyone can play as many ranked matches as they wish per day!\nvii. Clashmas-themed mini skin set is here! Put on your ugliest sweater and check out some of the most beautiful hero and mini skins we have in store (literally) for you.\nviii. More hero quests and more diverse daily quests!\nix. Spanish language support is here! Vamos!\nx. Clash Mini now consumes much less battery on various devices.\nxi. Improved performance and a bunch of optimization on various devices.\nxii. Pathfinding of various minis improved.\nxiii. Various balance changes applied! See below.\n\nb. BALANCE CHANGES\n\na. Archer Queen:\n\ni. Lv9 stat changed to 'HP+1' instead of 'Reduce 'Crossbow' Energy Cost by 1'\n\nb. Countess:\n\ni. Lv6 stat changed to 'HP+1' from 'HP+2'\nii. Lv7 stat changed to 'Attack Speed +0.15' from 'Attack Speed +0.25'\niii. Lv9 stat changed to 'Attack Speed +0.2' from 'Attack Speed +0.25'\n\nc. Barbarian King:\n\ni. Super - Iron Fist now affects all allies on Lv1\nii. New Lv5 upgrade: Iron Fist heals Barbarian King for 4 HP\n\nd. Monk:\n\ni. New Lv5 upgrade: Monk starts the battle with 3 energy\n\ne. Giant Skeleton:\n\ni. Bomb explosion delay increased to 2s from 1s.\nii. Bug fix: Base Bomb should only stun for 1s instead of 1.5s; Upgrade - Flashbang should increase the stun duration to 2.5s in total.\n\nf. Electro Wizard:\n\ni. Base HP reduced to 5 from 7; HP growth reduced to 2 from 3 for each upgrade.\nii. Attack Speed reduced to 0.6 from 0.650\niii. Zzzap stun duration reduced to 1s from 1.5s\niv. Upgrade - Fork: Extra target reduced to 1 from 2\n\ng. Bowler:\n\ni. Attack Speed reduced to 0.3 from 0.35\nii. Strrrrrike!!! stun duration reduced to 1.5s from 2s\niii. Upgrade - Crushing extra stun duration reduced to 2s from 3s\niv. Bug-fix: Upgrade - On a Roll was stunning for 3s, the correct duration should be 1.5s and it is fixed now\nv. Strrrrrike!! casting time increased from 0.6s to 1s\n\nh. Barbarian:\n\ni. Base Attack Speed increased to 0.6 from 0.4\nii. Base HP increased to 7 from 6\n\ni. Healing Ranger:\n\ni. Energy to cast reduced to 4.\n\nj. Battle Healer:\n\ni. Base HP increased to 11 from 10\nii. Attack Speed increased to 0.6 from 0.45\n\nk. Lumberjack:\n\ni. Base HP increased to 11 from 9.\nii. Attack Speed growth increased to 0.15 from 0.1\n\nl. Dart Goblin:\n\ni. Base HP increased to 6 from 5\nii. Stun Shot stun duration reduced to 1s from 2s, and a chance to trigger is slightly increased\n\nm. General:\n\ni. Extra energy on Electro Valley is reduced to 2 from 4.",
-        "ptBr": "a.Novo\n\ni. Diga Olá para os novos minis: Mosqueteira e Príncipe! Pode ser obtido por meio de missões especiais e loja.\nii. As missões do evento Clashmas com uma recompensa especial de skin do Goblin Lanceiro 'Candy Elf' estão aqui! Entre e comece sua jornada de Clashmas.\niii. Os slots de deck estão aqui! Salve até 3 mini decks preferenciais.\niv. Mini quartos! Convide seus amigos com um código único e joguem juntos para se divertir e praticar Duel e Rumble. As minis salas não contam para a conclusão de missões ou para jogo classificado.\nv. Diga adeus às moedas de desafio e olá às moedas de cristal - uma moeda especial que você usa para comprar skins especiais na loja! As moedas de cristal podem ser obtidas de fragmentos extras de heróis e minis quando os heróis e os minis estiverem no nível máximo/nível de estrela.\nvi. Como as moedas de desafio acabaram, qualquer pessoa pode jogar quantas partidas classificadas quiser por dia!\nvii. Chegou o conjunto de mini skins com o tema Clashmas! Vista o seu suéter mais feio e dê uma olhada em algumas das mais belas skins de heróis e mini-skins que temos guardadas (literalmente) para você.\nviii. Mais missões de heróis e mais diversas missões diárias!\nix. O suporte ao idioma espanhol está aqui! Vamos!\nx. O Clash Mini agora consome muito menos bateria em vários dispositivos.\nxi. Desempenho aprimorado e muitas otimizações em vários dispositivos.\nxii. O Pathfinding de vários minis foi aprimorado.\nxiii. Várias alterações de equilíbrio aplicadas! Veja abaixo.\n\nb. ALTERAÇÕES DE BALANCEAMENTO\n\ni. Rainha Arqueira:\n\ni. Estatística Nv9 alterada para 'HP + 1' em vez de 'Reduzir' Besta 'Custo de Energia em 1'\n\nb. Condessa:\n\ni. Estatística Nv6 alterada de 'HP + 2' para 'HP + 1'\nii. Estatística Nv7 alterada de 'Velocidade de Ataque +0.25' para 'Velocidade de Ataque +0.15'\niii. Estatística Nv9 alterada de 'Velocidade de Ataque +0.25' para 'Velocidade de Ataque +0.2'\n\nc. Rei Bárbaro:\n\ni. Super - Punho de Ferro agora afeta todos os aliados no Nv1\nii. Nova atualização Nv5: Punho de Ferro cura o Rei Bárbaro em 4 HP\n\nd. Monge:\n\ni. Nova atualização Nv5: Monge começa a batalha com 3 de energia\n\ne. Esqueleto Gigante:\n\ni. O tempo da explosão da bomba aumentou de 1s para 2s.\nii. Correção de bug: Bomba Base deve atordoar apenas por 1s em vez de 1.5s; Atualização - Bomba de Atordoamento deve aumentar a duração do atordoamento para 2.5s no total.\n\nf. Mago Elétrico:\n\ni. HP básico reduzido de 7 para 5; O crescimento da HP foi reduzido de 3 para 2 em cada atualização.\nii. Velocidade de ataque reduzida de 0.650 para 0.6\niii. Duração do atordoamento da Descarga reduzida de 1.5s para 1s\niv. Atualização - Bifurcação: alvo extra reduzido de 2 para 1\n\ng. Lançador:\n\ni. Velocidade de ataque reduzida de 0.35 para 0.3\nii. Strrrrrike!!! duração do atordoamento reduzida de 2s para 1.5s\niii. Atualização - Duração do atordoamento extra de esmagamento reduzida de 3s para 2s\niv. Correção de bug: Atualização - Rolando foi impressionante por 3s, a duração correta deve ser 1.5s e está corrigido agora\nv. Strrrrrike !! tempo de lançamento aumentou de 0.6s para 1s\n\nh. Bárbaro:\n\ni. Velocidade de ataque base aumentada de 0.4 para 0.6\nii. Base de HP aumentada de 6 para 7\n\ni. Curadora de Lança:\n\ni. Energia para lançar reduzida para 4.\n\nj. Curadora de batalha:\n\ni. A base de HP aumentou de 10 para 11\nii. Velocidade de ataque aumentada de 0.45 para 0.6\n\nk. Lenhador:\n\ni. A base de HP aumentou de 9 para 11.\nii. O aumento da velocidade de ataque aumentou de 0.1 para 0.15\n\ni. Goblin de Dardo:\n\ni. Base de HP aumentada de 5 para 6 \nii. A duração do atordoamento do tiro atordoante foi reduzida de 2s para 1s e a chance de ativação foi ligeiramente aumentada\n\nm. Geral:\n\ni. A energia extra no Vale do Eletro é reduzida de 4 para 2 .",
+        "ptBr": "a.Novo\n\ni. Diga Olá para os novos minis: Mosqueteira e Príncipe! Pode ser obtido por meio de missões especiais e loja.\nii. As missões do evento Clashmas com uma recompensa especial de skin do Goblin Lanceiro 'Candy Elf' estão aqui! Entre e comece sua jornada de Clashmas.\niii. Os slots de deck estão aqui! Salve até 3 mini decks preferenciais.\niv. Mini quartos! Convide seus amigos com um código único e joguem juntos para se divertir e praticar Duel e Rumble. As minis salas não contam para a conclusão de missões ou para jogo classificado.\nv. Diga adeus às moedas de desafio e olá às moedas de cristal - uma moeda especial que você usa para comprar skins especiais na loja! As moedas de cristal podem ser obtidas de fragmentos extras de heróis e minis quando os heróis e os minis estiverem no nível máximo/nível de estrela.\nvi. Como as moedas de desafio acabaram, qualquer pessoa pode jogar quantas partidas classificadas quiser por dia!\nvii. Chegou o conjunto de mini skins com o tema Clashmas! Vista o seu suéter mais feio e dê uma olhada em algumas das mais belas skins de heróis e mini-skins que temos guardadas (literalmente) para você.\nviii. Mais missões de heróis e mais diversas missões diárias!\nix. O suporte ao idioma espanhol está aqui! Vamos!\nx. O Clash Mini agora consome muito menos bateria em vários dispositivos.\nxi. Desempenho aprimorado e muitas otimizações em vários dispositivos.\nxii. O Pathfinding de vários minis foi aprimorado.\nxiii. Várias alterações de equilíbrio aplicadas! Veja abaixo.\n\nb. ALTERAÇÕES DE BALANCEAMENTO\n\ni. Rainha Arqueira:\n\ni. Estatística Nv9 alterada para 'HP + 1' em vez de 'Reduzir' Besta 'Custo de Energia em 1'\n\nb. Condessa:\n\ni. Estatística Nv6 alterada de 'HP + 2' para 'HP + 1'\nii. Estatística Nv7 alterada de 'Velocidade de Ataque +0.25' para 'Velocidade de Ataque +0.15'\niii. Estatística Nv9 alterada de 'Velocidade de Ataque +0.25' para 'Velocidade de Ataque +0.2'\n\nc. Rei Bárbaro:\n\ni. Super - Punho de Ferro agora afeta todos os aliados no Nv1\nii. Nova atualização Nv5: Punho de Ferro cura o Rei Bárbaro em 4 HP\n\nd. Monge:\n\ni. Nova atualização Nv5: Monge começa a batalha com 3 de energia\n\ne. Esqueleto Gigante:\n\ni. O tempo da explosão da bomba aumentou de 1s para 2s.\nii. Correção de bug: Bomba Base deve atordoar apenas por 1s em vez de 1.5s; Atualização - Bomba de Atordoamento deve aumentar a duração do atordoamento para 2.5s no total.\n\nf. Mago Elétrico:\n\ni. HP básico reduzido de 7 para 5; O crescimento da HP foi reduzido de 3 para 2 em cada atualização.\nii. Velocidade de ataque reduzida de 0.650 para 0.6\niii. Duração do atordoamento da Descarga reduzida de 1.5s para 1s\niv. Atualização - Bifurcação: alvo extra reduzido de 2 para 1\n\ng. Lançador:\n\ni. Velocidade de ataque reduzida de 0.35 para 0.3\nii. Strrrrrike!!! duração do atordoamento reduzida de 2s para 1.5s\niii. Atualização - Duração do atordoamento extra de esmagamento reduzida de 3s para 2s\niv. Correção de bug: Atualização - Rolando foi impressionante por 3s, a duração correta deve ser 1.5s e está corrigido agora\nv. Strrrrrike !! tempo de lançamento aumentou de 0.6s para 1s\n\nh. Bárbaro:\n\ni. Velocidade de ataque base aumentada de 0.4 para 0.6\nii. Base de HP aumentada de 6 para 7\n\ni. Curadora com Lança:\n\ni. Energia para lançar reduzida para 4.\n\nj. Curadora de batalha:\n\ni. A base de HP aumentou de 10 para 11\nii. Velocidade de ataque aumentada de 0.45 para 0.6\n\nk. Lenhador:\n\ni. A base de HP aumentou de 9 para 11.\nii. O aumento da velocidade de ataque aumentou de 0.1 para 0.15\n\ni. Goblin de Dardo:\n\ni. Base de HP aumentada de 5 para 6 \nii. A duração do atordoamento do tiro atordoante foi reduzida de 2s para 1s e a chance de ativação foi ligeiramente aumentada\n\nm. Geral:\n\ni. A energia extra no Vale do Eletro é reduzida de 4 para 2 .",
         "esEs": "a.Nuevo\n\ni. Saluda a los nuevos minis: ¡Mosquetera y Príncipe! Se puede obtener a través de misiones especiales y tienda.\nii. ¡Ya están aquí las misiones de eventos de Clashmas con una recompensa especial de aspecto de duende lanza 'Candy Elf'! Súbete y comienza tu viaje de Clashmas.\niii. ¡Las máquinas tragamonedas están aquí! Guarde hasta 3 mini mazos preferidos.\niv. ¡Mini habitaciones! Invite a sus amigos con un código único y jueguen juntos para divertirse y practicar tanto en Duelo como en Rumble. Las mini habitaciones no cuentan para completar misiones ni para el juego clasificado.\nv. Dile adiós a las monedas de desafío y hola a las monedas de cristal, ¡una moneda especial que puedes usar para crear máscaras especiales en la tienda! Las monedas de cristal se pueden obtener a partir de fragmentos extra de héroes y minifragmentos una vez que los héroes y minis estén en el nivel máximo / nivel de estrella.\nvi. ¡Dado que las monedas de desafío se acabaron, cualquiera puede jugar tantas partidas clasificatorias como desee por día!\nvii. ¡Ya está aquí el mini juego de aspectos con temática de Clashmas! Ponte tu suéter más feo y echa un vistazo a algunos de los héroes y miniescaras más hermosos que tenemos guardados (literalmente) para ti.\nviii. ¡Más misiones de héroe y misiones diarias más diversas!\nix. ¡El soporte en español está aquí! ¡Vamos!\nx. Clash Mini ahora consume mucha menos batería en varios dispositivos.\nxi. Rendimiento mejorado y mucha optimización en varios dispositivos.\nxii. Se mejoró la búsqueda de caminos de varios minis.\nxiii. ¡Se han aplicado varios cambios de saldo! Vea a continuación.\n\nb. CAMBIOS DE SALDO\n\na. Reina Arquera:\n\ni. La estadística Nv9 cambió a 'HP + 1' en lugar de 'Reducir el costo de energía de' Ballesta 'en 1'\n\nb. Condesa:\n\ni. La estadística de nivel 6 cambió a 'HP + 1' de 'HP + 2'\nii. La estadística Nv7 cambió a 'Velocidad de ataque +0.15' de 'Velocidad de ataque +0.25'\niii. La estadística Nv9 cambió a 'Velocidad de ataque +0.2' de 'Velocidad de ataque +0.25'\n\nc. Rey Bárbaro:\n\ni. Super - Puño de Hierro ahora afecta a todos los aliados en Lv1\nii. Nueva actualización Nv5: Puño de Hierro cura al Rey Bárbaro por 4 HP\n\nd. Monje:\n\ni. Nueva mejora Nv5: Monje comienza la batalla con 3 energías\n\ne. Esqueleto Gigante:\n\ni. La demora de explosión de la bomba aumentó de 1 segundo a 2.\nii. Corrección de error: la bomba base solo debería aturdir durante 1 s en lugar de 1.5s; Actualización: Onda Expansiva debería aumentar la duración del aturdimiento a 2.5 segundos en total.\n\nf. Mago Eléctrico:\n\ni. HP base reducido de 7 a 5; El crecimiento de HP se redujo de 3 a 2 por cada actualización.\nii. Velocidad de ataque reducida de 0.650 a 0.6\niii. La duración del aturdimiento de Descarga se redujo a 1 s de 1.5s\niv. Mejora - Bifurcación: objetivo adicional reducido a 1 de 2\n\ng. Lanzarrocas:\n\ni. Velocidad de ataque reducida de 0.35 a 0.3\nii. ¡¡¡Strrrrrike !!! duración del aturdimiento reducida de 2s a 1.5s\niii. Mejora: la duración del aturdimiento adicional aplastante se redujo de 3 a 2 segundos\niv. Corrección de errores: Actualización: Daño Amplificado fue impresionante durante 3 segundos, la duración correcta debería ser de 1.5 segundos y ahora está arreglado\nv. ¡¡Strrrrrike !! El tiempo de lanzamiento aumentó de 0.6 sa 1s\n\nh. Bárbaro:\n\ni. Velocidad de ataque base aumentada de 0.4 a 0,6\nii. HP base aumentó de 6 a 7\n\ni. Curandera com Lanza:\n\ni. Energía para lanzar reducida a 4.\n\nj. Curandera Guerrera:\n\ni. HP base aumentó de 10 a 11\nii. Velocidad de ataque aumentada de 0.45 a 0.6\n\nk. Leñador:\n\ni. HP base aumentó de 9 a 11.\nii. El crecimiento de la velocidad de ataque aumentó de 0.1 a 0.15\n\nl. Duende lanzadardos:\n\ni. HP base aumentó de 5 a 6\nii. Disparo de aturdimiento La duración del aturdimiento se redujo de 2 a 1s, y la probabilidad de activarse aumenta ligeramente\n\nm. General:\n\ni. La energía extra en Electrovalle se reduce de 4 a 2."
       }
     }
