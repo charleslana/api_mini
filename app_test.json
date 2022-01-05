@@ -3357,5 +3357,25 @@
       },
       "trophies": 1200
     }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "date": "2022/01/01",
+      "description": {
+        "enUs": "• New update 1.1.0\n\n• New icons and images added to the app.\n\n• Name change to DB Mini.\n\n• Logo Change.\n\n• Fixed several internal issues.\n\n• Removed the clear theme, now we only have the default App theme.\n\n• Updated various stats and other information as per the current Clash Mini update.\n\n• Added new characters.\n\n• New language added: Spanish.\n\n• News on the way soon.",
+        "ptBr": "• Nova atualização 1.1.0\n\n• Novos ícones e imagens adicionado ao aplicativo.\n\n• Mudança de Nome para DB Mini.\n\n• Mudança do Logo.\n\n• Foi corrigido vários problemas internos.\n\n• Foi removido o tema claro, agora temos apenas o tema padrão do Aplicativo.\n\n• Foi atualizado várias informações de stats, entre outros, conforme a atualização atual do Clash Mini.\n\n• Foi adicionado os novos personagens.\n\n• Novo Idioma adicionado: Espanhol.\n\n• Novidades em breve a caminho.",
+        "esEs": "• Nueva actualización 1.1.0\n\n• Se agregaron nuevos íconos e imágenes a la aplicación.\n\n• Cambio de nombre a DB Mini.\n\n• Cambio de logotipo.\n\n• Se corrigieron varios problemas internos.\n\n• Se eliminó el tema claro, ahora solo tenemos el tema de la aplicación predeterminado.\n\n• Se actualizaron varias estadísticas y otra información según la actualización actual de Clash Mini.\n\n• Se agregaron nuevos personajes.\n\n• Nuevo idioma agregado: español.\n\n• Noticias en camino pronto."
+      }
+    },
+    {
+      "id": 2,
+      "date": "0000/00/00",
+      "description": {
+        "enUs": "",
+        "ptBr": "",
+        "esEs": ""
+      }
+    }
   ]
 }
