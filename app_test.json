@@ -2250,7 +2250,7 @@
           "clash": false,
           "super": false,
           "boast": false,
-          "ko": true,
+          "ko": false,
           "name": {
             "enUs": "2-for-1",
             "ptBr": "2 por 1",
@@ -3067,7 +3067,7 @@
         {
           "level": 2,
           "hp": 10,
-          "hitPerSecond": 0.9,
+          "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 6,
           "initialEnergy": 0
@@ -3085,15 +3085,15 @@
           "hp": 12,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
           "level": 5,
-          "hp": 14,
+          "hp": 12,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
@@ -3101,7 +3101,7 @@
           "hp": 14,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
@@ -3109,31 +3109,31 @@
           "hp": 14,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 8,
-          "hp": 14,
+          "hp": 16,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 16,
-          "hitPerSecond": 0.8,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 16,
-          "hitPerSecond": 0.8,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         }
       ]
