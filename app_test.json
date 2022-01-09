@@ -663,8 +663,8 @@
             "esEs": "Frío"
           },
           "description": {
-            "enUs": "Frost Bolt will greatly Slow enemies.",
-            "ptBr": "Congelando irá retardar enormemente os inimigos.",
+            "enUs": "Frost Bolt will greatly Slow enemies. Slow: Movement and attack speed reduced.",
+            "ptBr": "Congelando irá retardar enormemente os inimigos. Lento: Redução da velocidade de movimento e ataque.",
             "esEs": "La Habilidad Congelación ralentiza enormemente a los enemigos. Ralentiza: Reducción de velocidad de movimiento y ataque."
           }
         },
@@ -697,9 +697,9 @@
             "esEs": "Bomba de Hielo"
           },
           "description": {
-            "enUs": "Freeze nearby enemies for a short time.",
+            "enUs": "Freeze nearby enemies for a short time. KO: After this mini is defeated.",
             "ptBr": "Congele os inimigos próximos por um curto período de tempo.",
-            "esEs": "Congela a los enemigos cercanos durante un tiempo breve. Daño Mortal: Se activa cuando este mini es derrotado."
+            "esEs": "Congela a los enemigos cercanos durante un tiempo breve. Dano mortal: é ativado quando este mini é derrotado."
           }
         }
       ],
@@ -905,8 +905,8 @@
             "esEs": "Sorbito"
           },
           "description": {
-            "enUs": "Cast Rage Potion.",
-            "ptBr": "Poção de Raiva Lançada.",
+            "enUs": "Cast Rage Potion. Clash: Cast when battle starts.",
+            "ptBr": "Poção de Raiva Lançada. Clash: é ativado no início da batalha.",
             "esEs": "Activa la Habilidade Poción de Furia. Clash: Se activa al comienzo de la batalha."
           }
         }
@@ -992,8 +992,8 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Attacks gain 2 Dissipate.",
-            "ptBr": "Ataques ganham 2 de Dissipar.",
+            "enUs": "Attacks gain 2 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Ataques ganham 2 de Dissipar. Dissipar: Seu oponente perde energia ao ser atingido.",
             "esEs": "Los ataques adquieren 2 unidades de Disipación. Disipación: Tu rival pierde energia cuando recibe el impacto."
           }
         },
@@ -1009,8 +1009,8 @@
             "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time.",
-            "ptBr": "+1 ATK por um curto período de tempo.",
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1113,8 +1113,8 @@
             "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time.",
-            "ptBr": "+1 ATK por um curto período de tempo.",
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1408,8 +1408,8 @@
             "esEs": "Armadura"
           },
           "description": {
-            "enUs": "Gain Block for a short time.",
-            "ptBr": "Ganho de Bloqueio por um curto período de tempo.",
+            "enUs": "Gain Block for a short time. Clash: Cast when battle starts. Block: Reduce incoming damage by 1.",
+            "ptBr": "Ganho de Bloqueio por um curto período de tempo. Clash: é ativado no início da batalha. Bloqueio: Reduz o dano recebido em 1 ponto.",
             "esEs": "Adquiere la Habilidad Bloqueo durante un tiempo breve. Clash: Se activa al comienzo de la batalla. Bloqueo: Reduce 1 punto el daño recebido."
           }
         },
@@ -1425,8 +1425,8 @@
             "esEs": "Rompeescudos"
           },
           "description": {
-            "enUs": "Heal 6HP over 3s.",
-            "ptBr": "Cure 6HP ao longo de 3s.",
+            "enUs": "Heal 6HP over 3s. Boast: After defeating an enemy.",
+            "ptBr": "Cure 6HP ao longo de 3s. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "Regera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1512,8 +1512,8 @@
             "esEs": "Modestia"
           },
           "description": {
-            "enUs": "Heal 6HP over 3s.",
-            "ptBr": "Cure 6HP ao longo de 3s.",
+            "enUs": "Heal 6HP over 3s. Boast: After defeating an enemy.",
+            "ptBr": "Cure 6HP ao longo de 3s. Vangloriar-se: Após derrotar um inimigo.",
             "esEs": "Regenera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
@@ -1529,8 +1529,8 @@
             "esEs": "Adrenalina"
           },
           "description": {
-            "enUs": "HUGE Speed increase for a short time.",
-            "ptBr": "Grande aumento de Velocidade por um curto período de tempo.",
+            "enUs": "HUGE Speed increase for a short time. Clash: Cast when battle starts.",
+            "ptBr": "Grande aumento de Velocidade por um curto período de tempo. Clash: é ativado no início da batalha.",
             "esEs": "Gran aumento de velocidad durante un tiempo breve. Clash: Se activa al comienzo de la batalla."
           }
         }
@@ -1616,9 +1616,9 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Magic Arrow gains 2 Dissipate.",
-            "ptBr": "Flecha Mágica ganha 2 de Dissipar.",
-            "esEs": "La Flecha Mágica adquiere 2 unidade de Disipación."
+            "enUs": "Magic Arrow gains 2 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Flecha Mágica ganha 2 de Dissipar. Dissipar: Seu rival perde energia ao ser atingido.",
+            "esEs": "La Flecha Mágica adquiere 2 unidade de Disipación. Disipación: Tu Rival pierde energía cuando recibe el impacto."
           }
         },
         {
@@ -1633,8 +1633,8 @@
             "esEs": "Añicos"
           },
           "description": {
-            "enUs": "Magic Arrow gains Breaker.",
-            "ptBr": "Flecha Mágica ganha Quebra-escudos.",
+            "enUs": "Magic Arrow gains Breaker. Breaker: 3x damage to Shields.",
+            "ptBr": "Flecha Mágica ganha Quebra-escudos. Quebra-escudos: causa dano triplo aos escudos.",
             "esEs": "La Flecha Mágica adquiere la Habilidad Rompeescudos. Rompeescudos: Inflige el triple de daño a los Escudos."
           }
         }
@@ -1928,8 +1928,8 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Zzzap gains 4 Dissipate.",
-            "ptBr": "Descarga ganha 4 de Dissipar.",
+            "enUs": "Zzzap gains 4 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Descarga ganha 4 de Dissipar. Dissipar: Seu oponente perde energia ao ser atingido.",
             "esEs": "La Descarga adquiere 4 unidades de Disipación. Disipación: Tu rival pierde energía cuando recibe el impacto."
           }
         },
@@ -2049,8 +2049,8 @@
             "esEs": "Acción Rápida"
           },
           "description": {
-            "enUs": "Cast Shield-up!",
-            "ptBr": "Proteção! é ativada.",
+            "enUs": "Cast Shield-up! Clash: Cast when battle starts.",
+            "ptBr": "Proteção! é ativada. Clash: é ativado no início da batalha.",
             "esEs": "Activa la Habilidade ¡Protección!. Clash: Se activa al comienzo de la batalla."
           }
         }
@@ -2153,8 +2153,8 @@
             "esEs": "Corcel Fiel"
           },
           "description": {
-            "enUs": "Your old pal, Pony fights on!!, After this mini is defeated.",
-            "ptBr": "Seu fiel amigo, Pónei continua lutando !!, Após este mini ser derrotado.",
+            "enUs": "Your old pal, Pony fights on!!. KO: After this mini is defeated.",
+            "ptBr": "Seu fiel amigo, Pónei continua lutando!!. Dano mortal: Após este mini ser derrotado.",
             "esEs": "Tu fiel poni sigue luchando. Daño Mortal: Se activa cuando este mini es derrotado."
           }
         }
