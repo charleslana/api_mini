@@ -1,6 +1,5 @@
 {
-  "version": "1.1.0",
-  "versionApp": "1.1.0",
+  "version": "1.1.1",
   "author": "Charles Lana",
   "minis": [
     {
@@ -664,8 +663,8 @@
             "esEs": "Frío"
           },
           "description": {
-            "enUs": "Frost Bolt will greatly Slow enemies.",
-            "ptBr": "Congelando irá retardar enormemente os inimigos.",
+            "enUs": "Frost Bolt will greatly Slow enemies. Slow: Movement and attack speed reduced.",
+            "ptBr": "Congelando irá retardar enormemente os inimigos. Lento: Redução da velocidade de movimento e ataque.",
             "esEs": "La Habilidad Congelación ralentiza enormemente a los enemigos. Ralentiza: Reducción de velocidad de movimiento y ataque."
           }
         },
@@ -698,9 +697,9 @@
             "esEs": "Bomba de Hielo"
           },
           "description": {
-            "enUs": "Freeze nearby enemies for a short time.",
+            "enUs": "Freeze nearby enemies for a short time. KO: After this mini is defeated.",
             "ptBr": "Congele os inimigos próximos por um curto período de tempo.",
-            "esEs": "Congela a los enemigos cercanos durante un tiempo breve. Daño Mortal: Se activa cuando este mini es derrotado."
+            "esEs": "Congela a los enemigos cercanos durante un tiempo breve. Dano mortal: é ativado quando este mini é derrotado."
           }
         }
       ],
@@ -906,8 +905,8 @@
             "esEs": "Sorbito"
           },
           "description": {
-            "enUs": "Cast Rage Potion.",
-            "ptBr": "Poção de Raiva Lançada.",
+            "enUs": "Cast Rage Potion. Clash: Cast when battle starts.",
+            "ptBr": "Poção de Raiva Lançada. Clash: é ativado no início da batalha.",
             "esEs": "Activa la Habilidade Poción de Furia. Clash: Se activa al comienzo de la batalha."
           }
         }
@@ -993,8 +992,8 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Attacks gain 2 Dissipate.",
-            "ptBr": "Ataques ganham 2 de Dissipar.",
+            "enUs": "Attacks gain 2 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Ataques ganham 2 de Dissipar. Dissipar: Seu oponente perde energia ao ser atingido.",
             "esEs": "Los ataques adquieren 2 unidades de Disipación. Disipación: Tu rival pierde energia cuando recibe el impacto."
           }
         },
@@ -1010,8 +1009,8 @@
             "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time.",
-            "ptBr": "+1 ATK por um curto período de tempo.",
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1114,8 +1113,8 @@
             "esEs": "Orgullo"
           },
           "description": {
-            "enUs": "+1 ATK for a short time.",
-            "ptBr": "+1 ATK por um curto período de tempo.",
+            "enUs": "+1 ATK for a short time. Boast: After defeating an enemy.",
+            "ptBr": "+1 ATK por um curto período de tempo. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "1 ataque más durante un tiempo breve. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1409,8 +1408,8 @@
             "esEs": "Armadura"
           },
           "description": {
-            "enUs": "Gain Block for a short time.",
-            "ptBr": "Ganho de Bloqueio por um curto período de tempo.",
+            "enUs": "Gain Block for a short time. Clash: Cast when battle starts. Block: Reduce incoming damage by 1.",
+            "ptBr": "Ganho de Bloqueio por um curto período de tempo. Clash: é ativado no início da batalha. Bloqueio: Reduz o dano recebido em 1 ponto.",
             "esEs": "Adquiere la Habilidad Bloqueo durante un tiempo breve. Clash: Se activa al comienzo de la batalla. Bloqueo: Reduce 1 punto el daño recebido."
           }
         },
@@ -1426,8 +1425,8 @@
             "esEs": "Rompeescudos"
           },
           "description": {
-            "enUs": "Heal 6HP over 3s.",
-            "ptBr": "Cure 6HP ao longo de 3s.",
+            "enUs": "Heal 6HP over 3s. Boast: After defeating an enemy.",
+            "ptBr": "Cure 6HP ao longo de 3s. Vangloriar-se: Ativado após derrotar uma unidade inimiga.",
             "esEs": "Regera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         }
@@ -1513,8 +1512,8 @@
             "esEs": "Modestia"
           },
           "description": {
-            "enUs": "Heal 6HP over 3s.",
-            "ptBr": "Cure 6HP ao longo de 3s.",
+            "enUs": "Heal 6HP over 3s. Boast: After defeating an enemy.",
+            "ptBr": "Cure 6HP ao longo de 3s. Vangloriar-se: Após derrotar um inimigo.",
             "esEs": "Regenera 6 puntos de vida durante 3 segundos. Alarde: Se activa tras derrotar a una unidad enemiga."
           }
         },
@@ -1530,8 +1529,8 @@
             "esEs": "Adrenalina"
           },
           "description": {
-            "enUs": "HUGE Speed increase for a short time.",
-            "ptBr": "Grande aumento de Velocidade por um curto período de tempo.",
+            "enUs": "HUGE Speed increase for a short time. Clash: Cast when battle starts.",
+            "ptBr": "Grande aumento de Velocidade por um curto período de tempo. Clash: é ativado no início da batalha.",
             "esEs": "Gran aumento de velocidad durante un tiempo breve. Clash: Se activa al comienzo de la batalla."
           }
         }
@@ -1617,9 +1616,9 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Magic Arrow gains 2 Dissipate.",
-            "ptBr": "Flecha Mágica ganha 2 de Dissipar.",
-            "esEs": "La Flecha Mágica adquiere 2 unidade de Disipación."
+            "enUs": "Magic Arrow gains 2 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Flecha Mágica ganha 2 de Dissipar. Dissipar: Seu rival perde energia ao ser atingido.",
+            "esEs": "La Flecha Mágica adquiere 2 unidade de Disipación. Disipación: Tu Rival pierde energía cuando recibe el impacto."
           }
         },
         {
@@ -1634,8 +1633,8 @@
             "esEs": "Añicos"
           },
           "description": {
-            "enUs": "Magic Arrow gains Breaker.",
-            "ptBr": "Flecha Mágica ganha Quebra-escudos.",
+            "enUs": "Magic Arrow gains Breaker. Breaker: 3x damage to Shields.",
+            "ptBr": "Flecha Mágica ganha Quebra-escudos. Quebra-escudos: causa dano triplo aos escudos.",
             "esEs": "La Flecha Mágica adquiere la Habilidad Rompeescudos. Rompeescudos: Inflige el triple de daño a los Escudos."
           }
         }
@@ -1929,8 +1928,8 @@
             "esEs": "Drenaje"
           },
           "description": {
-            "enUs": "Zzzap gains 4 Dissipate.",
-            "ptBr": "Descarga ganha 4 de Dissipar.",
+            "enUs": "Zzzap gains 4 Dissipate. Dissipate: Enemy loses Energy when hit.",
+            "ptBr": "Descarga ganha 4 de Dissipar. Dissipar: Seu oponente perde energia ao ser atingido.",
             "esEs": "La Descarga adquiere 4 unidades de Disipación. Disipación: Tu rival pierde energía cuando recibe el impacto."
           }
         },
@@ -2050,8 +2049,8 @@
             "esEs": "Acción Rápida"
           },
           "description": {
-            "enUs": "Cast Shield-up!",
-            "ptBr": "Proteção! é ativada.",
+            "enUs": "Cast Shield-up! Clash: Cast when battle starts.",
+            "ptBr": "Proteção! é ativada. Clash: é ativado no início da batalha.",
             "esEs": "Activa la Habilidade ¡Protección!. Clash: Se activa al comienzo de la batalla."
           }
         }
@@ -2154,8 +2153,8 @@
             "esEs": "Corcel Fiel"
           },
           "description": {
-            "enUs": "Your old pal, Pony fights on!!, After this mini is defeated.",
-            "ptBr": "Seu fiel amigo, Pónei continua lutando !!, Após este mini ser derrotado.",
+            "enUs": "Your old pal, Pony fights on!!. KO: After this mini is defeated.",
+            "ptBr": "Seu fiel amigo, Pónei continua lutando!!. Dano mortal: Após este mini ser derrotado.",
             "esEs": "Tu fiel poni sigue luchando. Daño Mortal: Se activa cuando este mini es derrotado."
           }
         }
@@ -2251,7 +2250,7 @@
           "clash": false,
           "super": false,
           "boast": false,
-          "ko": true,
+          "ko": false,
           "name": {
             "enUs": "2-for-1",
             "ptBr": "2 por 1",
@@ -3068,7 +3067,7 @@
         {
           "level": 2,
           "hp": 10,
-          "hitPerSecond": 0.9,
+          "hitPerSecond": 0.8,
           "damagePerHit": 1,
           "energyCost": 6,
           "initialEnergy": 0
@@ -3086,15 +3085,15 @@
           "hp": 12,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
           "level": 5,
-          "hp": 14,
+          "hp": 12,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
@@ -3102,7 +3101,7 @@
           "hp": 14,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 5,
           "initialEnergy": 0
         },
         {
@@ -3110,31 +3109,31 @@
           "hp": 14,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 8,
-          "hp": 14,
+          "hp": 16,
           "hitPerSecond": 0.8,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 9,
           "hp": 16,
-          "hitPerSecond": 0.8,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         },
         {
           "level": 10,
           "hp": 16,
-          "hitPerSecond": 0.8,
+          "hitPerSecond": 0.95,
           "damagePerHit": 1,
-          "energyCost": 6,
+          "energyCost": 4,
           "initialEnergy": 0
         }
       ]
@@ -3357,6 +3356,26 @@
         "esEs": "Legendaria"
       },
       "trophies": 1200
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "date": "2022/01/01",
+      "description": {
+        "enUs": "• New update 1.1.0\n\n• New icons and images added to the app.\n\n• Name change to DB Mini.\n\n• Logo Change.\n\n• Fixed several internal issues.\n\n• Removed the clear theme, now we only have the default App theme.\n\n• Updated various stats and other information as per the current Clash Mini update.\n\n• Added new characters.\n\n• New language added: Spanish.\n\n• News on the way soon.",
+        "ptBr": "• Nova atualização 1.1.0\n\n• Novos ícones e imagens adicionado ao aplicativo.\n\n• Mudança de Nome para DB Mini.\n\n• Mudança do Logo.\n\n• Foi corrigido vários problemas internos.\n\n• Foi removido o tema claro, agora temos apenas o tema padrão do Aplicativo.\n\n• Foi atualizado várias informações de stats, entre outros, conforme a atualização atual do Clash Mini.\n\n• Foi adicionado os novos personagens.\n\n• Novo Idioma adicionado: Espanhol.\n\n• Novidades em breve a caminho.",
+        "esEs": "• Nueva actualización 1.1.0\n\n• Se agregaron nuevos íconos e imágenes a la aplicación.\n\n• Cambio de nombre a DB Mini.\n\n• Cambio de logotipo.\n\n• Se corrigieron varios problemas internos.\n\n• Se eliminó el tema claro, ahora solo tenemos el tema de la aplicación predeterminado.\n\n• Se actualizaron varias estadísticas y otra información según la actualización actual de Clash Mini.\n\n• Se agregaron nuevos personajes.\n\n• Nuevo idioma agregado: español.\n\n• Noticias en camino pronto."
+      }
+    },
+    {
+      "id": 2,
+      "date": "2022/01/09",
+      "description": {
+        "enUs": "• New update 1.1.1\n\n• Add to Tier List, now you can collect your tier list!\n\n• Favorites have been adjusted and decoupled internally for better maintenance. (Note favorite decks and minis have been reset)\n\n• New improvement added in creating Decks, it is possible to view some details of heroes/minis.\n\n• Improvement made in the Classification screen\n\n• Adjusted the favorites home screen containing the social networks for the community and the news of each application update\n\n• Adjusted some info for heroes/minis that weren't present.\n\n• Various fixes",
+        "ptBr": "• Nova atualização 1.1.1\n\n• Adicionar a Tier List, agora você pode colecionar suas tier list!\n\n• Os Favoritos foram ajustados e desacoplados de forma interna uma melhor manutenção. (Observação os decks e minis favoritos foram resetados)\n\n• Nova melhoria adicionado na criação de Decks, é possível visualizar alguns detalhes dos heróis/minis.\n\n• Melhoria realizada na tela de Classificação\n\n• Ajustado a tela inicial de favoritos contendo as redes social para a comunidade e as novidades de cada atualização do aplicativo\n\n• Foram ajustados algumas informações dos heróis/minis que não estavam presentes.\n\n• Várias correções",
+        "esEs": "• Nueva actualización 1.1.1\n\n• Agregue a la lista de niveles, ¡ahora puede recopilar su lista de niveles!\n\n• Los favoritos se han ajustado y desacoplado internamente para un mejor mantenimiento. (Tenga en cuenta que los mazos y minis favoritos se han restablecido)\n\n• Nueva mejora agregada en la creación de Decks, es posible ver algunos detalles de héroes/minis.\n\n• Mejora realizada en la pantalla de Clasificación\n\n• Se ajustó la pantalla de inicio de favoritos que contiene las redes sociales de la comunidad y las novedades de cada actualización de la aplicación\n\n• Se ajustó algo de información para héroes/minis que no estaban presentes.\n\n• Varias correcciones"
+      }
     }
   ]
 }
